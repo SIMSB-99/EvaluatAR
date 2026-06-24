@@ -1,0 +1,7 @@
+# Tested with Python 3.9.20
+great_tables==0.21.0
+matplotlib==3.9.2
+numpy==1.26.4
+opencv_contrib_python==4.10.0.84
+pandas==2.2.3
+seaborn==0.13.2

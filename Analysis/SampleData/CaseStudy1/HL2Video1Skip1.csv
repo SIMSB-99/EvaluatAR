@@ -1,0 +1,1085 @@
+TimeStamp, FPS, # Faces, frame #, QRDetection Status, Hardcoded Eye Gaze, DetectedFaces Info
+22-07-47.0788,53,0,0,False,False,{}
+22-07-47.0788,53,0,0,False,False,{}
+22-07-47.2203,53,0,0,False,False,{}
+22-07-47.2203,53,0,0,False,False,{}
+22-07-47.2503,52,0,0,False,False,{}
+22-07-47.2503,52,0,0,False,False,{}
+22-07-47.2693,73,0,0,False,False,{}
+22-07-47.2693,73,0,0,False,False,{}
+22-07-47.2793,62,0,0,False,False,{}
+22-07-47.2793,62,0,0,False,False,{}
+22-07-47.2958,63,0,0,False,False,{}
+22-07-47.2958,63,0,0,False,False,{}
+22-07-47.3063,69,0,0,False,False,{}
+22-07-47.3063,69,0,0,False,False,{}
+22-07-47.3461,65,0,0,False,False,{}
+22-07-47.3461,65,0,0,False,False,{}
+22-07-47.3685,46,0,0,False,False,{}
+22-07-47.3685,46,0,0,False,False,{}
+22-07-47.3800,48,0,0,False,False,{}
+22-07-47.3800,48,0,0,False,False,{}
+22-07-47.4010,48,0,0,False,False,{}
+22-07-47.4010,48,0,0,False,False,{}
+22-07-47.4180,50,0,0,False,False,{}
+22-07-47.4180,50,0,0,False,False,{}
+22-07-47.4415,52,0,0,False,False,{}
+22-07-47.4415,52,0,0,False,False,{}
+22-07-47.4590,53,0,0,False,False,{}
+22-07-47.4590,53,0,0,False,False,{}
+22-07-47.4815,52,0,0,False,False,{}
+22-07-47.4815,52,0,0,False,False,{}
+22-07-47.4980,52,0,0,False,False,{}
+22-07-47.4980,52,0,0,False,False,{}
+22-07-47.5080,53,0,0,False,False,{}
+22-07-47.5080,53,0,0,False,False,{}
+22-07-47.5240,55,0,0,False,False,{}
+22-07-47.5240,55,0,0,False,False,{}
+22-07-47.5410,60,0,0,False,False,{}
+22-07-47.5410,60,0,0,False,False,{}
+22-07-47.5585,59,0,0,False,False,{}
+22-07-47.5585,59,0,0,False,False,{}
+22-07-47.5695,59,0,0,False,False,{}
+22-07-47.5695,59,0,0,False,False,{}
+22-07-47.5895,60,0,0,False,False,{}
+22-07-47.5895,60,0,0,False,False,{}
+22-07-47.6010,61,0,0,False,False,{}
+22-07-47.6010,61,0,0,False,False,{}
+22-07-47.6175,60,0,0,False,False,{}
+22-07-47.6175,60,0,0,False,False,{}
+22-07-47.6350,60,0,0,False,False,{}
+22-07-47.6350,60,0,0,False,False,{}
+22-07-47.6530,58,0,0,False,False,{}
+22-07-47.6530,58,0,0,False,False,{}
+22-07-47.6790,56,0,0,False,False,{}
+22-07-47.6790,56,0,0,False,False,{}
+22-07-47.7205,52,0,0,False,False,{}
+22-07-47.7205,52,0,0,False,False,{}
+22-07-47.7430,43,0,0,False,False,{}
+22-07-47.7430,43,0,0,False,False,{}
+22-07-47.7665,45,0,0,False,False,{}
+22-07-47.7665,45,0,0,False,False,{}
+22-07-47.7850,45,0,0,False,False,{}
+22-07-47.7850,45,0,0,False,False,{}
+22-07-47.8070,42,0,0,False,False,{}
+22-07-47.8070,42,0,0,False,False,{}
+22-07-47.8245,44,0,0,False,False,{}
+22-07-47.8245,44,0,0,False,False,{}
+22-07-47.8430,46,0,0,False,False,{}
+22-07-47.8430,46,0,0,False,False,{}
+22-07-47.8675,46,0,0,False,False,{}
+22-07-47.8675,46,0,0,False,False,{}
+22-07-47.8835,47,0,0,False,False,{}
+22-07-47.8835,47,0,0,False,False,{}
+22-07-47.8970,51,0,0,False,False,{}
+22-07-47.8970,51,0,0,False,False,{}
+22-07-47.9140,52,0,0,False,False,{}
+22-07-47.9140,52,0,0,False,False,{}
+22-07-47.9320,56,0,0,False,False,{}
+22-07-47.9320,56,0,0,False,False,{}
+22-07-47.9815,55,0,0,False,False,{}
+22-07-47.9815,55,0,0,False,False,{}
+22-07-48.0018,40,0,0,False,False,{}
+22-07-48.0018,40,0,0,False,False,{}
+22-07-48.0168,41,0,0,False,False,{}
+22-07-48.0168,41,0,0,False,False,{}
+22-07-48.0348,44,0,0,False,False,{}
+22-07-48.0348,44,0,0,False,False,{}
+22-07-48.0567,44,0,0,False,False,{}
+22-07-48.0567,44,0,0,False,False,{}
+22-07-48.0903,44,0,0,False,False,{}
+22-07-48.0903,44,0,0,False,False,{}
+22-07-48.1003,44,0,0,False,False,{}
+22-07-48.1003,44,0,0,False,False,{}
+22-07-48.1143,48,0,0,False,False,{}
+22-07-48.1143,48,0,0,False,False,{}
+22-07-48.1358,50,0,0,False,False,{}
+22-07-48.1358,50,0,0,False,False,{}
+22-07-48.1493,50,0,0,False,False,{}
+22-07-48.1493,50,0,0,False,False,{}
+22-07-48.1658,53,0,0,False,False,{}
+22-07-48.1658,53,0,0,False,False,{}
+22-07-48.1818,54,0,0,False,False,{}
+22-07-48.1818,54,0,0,False,False,{}
+22-07-48.1958,57,0,0,False,False,{}
+22-07-48.1958,57,0,0,False,False,{}
+22-07-48.2088,60,0,0,False,False,{}
+22-07-48.2088,60,0,0,False,False,{}
+22-07-48.2203,63,0,0,False,False,{}
+22-07-48.2203,63,0,0,False,False,{}
+22-07-48.2361,65,0,0,False,False,{}
+22-07-48.2361,65,0,0,False,False,{}
+22-07-48.2509,64,0,0,False,False,{}
+22-07-48.2509,64,0,0,False,False,{}
+22-07-48.2679,62,0,0,False,False,{}
+22-07-48.2679,62,0,0,False,False,{}
+22-07-48.2879,60,0,0,False,False,{}
+22-07-48.2879,60,0,0,False,False,{}
+22-07-48.3019,62,0,0,False,False,{}
+22-07-48.3019,62,0,0,False,False,{}
+22-07-48.3189,61,0,0,False,False,{}
+22-07-48.3189,61,0,0,False,False,{}
+22-07-48.3354,61,0,0,False,False,{}
+22-07-48.3354,61,0,0,False,False,{}
+22-07-48.3589,60,0,0,False,False,{}
+22-07-48.3589,60,0,0,False,False,{}
+22-07-48.3729,58,0,0,False,False,{}
+22-07-48.3729,58,0,0,False,False,{}
+22-07-48.3864,60,0,0,False,False,{}
+22-07-48.3864,60,0,0,False,False,{}
+22-07-48.4009,61,0,0,False,False,{}
+22-07-48.4009,61,0,0,False,False,{}
+22-07-48.4179,61,0,0,False,False,{}
+22-07-48.4179,61,0,0,False,False,{}
+22-07-48.4354,60,0,0,False,False,{}
+22-07-48.4354,60,0,0,False,False,{}
+22-07-48.4529,60,0,0,False,False,{}
+22-07-48.4529,60,0,0,False,False,{}
+22-07-48.4942,48,0,0,False,False,{}
+22-07-48.4942,48,0,0,False,False,{}
+22-07-48.5189,47,0,0,False,False,{}
+22-07-48.5189,47,0,0,False,False,{}
+22-07-48.5364,46,0,0,False,False,{}
+22-07-48.5364,46,0,0,False,False,{}
+22-07-48.5679,48,0,0,False,False,{}
+22-07-48.5679,48,0,0,False,False,{}
+22-07-48.9702,16,0,1,False,False,{}
+22-07-48.9702,16,0,1,False,False,{}
+22-07-49.0805,15,0,2,False,False,{}
+22-07-49.0805,15,0,2,False,False,{}
+22-07-49.1103,15,0,3,False,False,{}
+22-07-49.1103,15,0,3,False,False,{}
+22-07-49.1700,12,0,4,False,False,{}
+22-07-49.1700,12,0,4,False,False,{}
+22-07-49.2701,14,0,5,False,False,{}
+22-07-49.2701,14,0,5,False,False,{}
+22-07-49.3649,14,0,6,False,False,{}
+22-07-49.3649,14,0,6,False,False,{}
+22-07-49.3954,14,0,7,False,False,{}
+22-07-49.3954,14,0,7,False,False,{}
+22-07-49.5100,14,0,8,False,False,{}
+22-07-49.5100,14,0,8,False,False,{}
+22-07-49.5980,13,0,9,False,False,{}
+22-07-49.5980,13,0,9,False,False,{}
+22-07-49.6870,15,0,10,False,False,{}
+22-07-49.6870,15,0,10,False,False,{}
+22-07-49.7704,14,0,11,False,False,{}
+22-07-49.7704,14,0,11,False,False,{}
+22-07-49.8100,14,0,12,False,False,{}
+22-07-49.8100,14,0,12,False,False,{}
+22-07-49.8707,13,0,13,False,False,{}
+22-07-49.8707,13,0,13,False,False,{}
+22-07-49.8951,13,0,14,False,False,{}
+22-07-49.8951,13,0,14,False,False,{}
+22-07-50.0252,12,0,15,False,False,{}
+22-07-50.0252,12,0,15,False,False,{}
+22-07-50.1149,12,0,16,False,False,{}
+22-07-50.1149,12,0,16,False,False,{}
+22-07-50.1352,12,0,17,False,False,{}
+22-07-50.1352,12,0,17,False,False,{}
+22-07-50.2304,12,0,18,False,False,{}
+22-07-50.2304,12,0,18,False,False,{}
+22-07-50.2923,12,0,19,False,False,{}
+22-07-50.2923,12,0,19,False,False,{}
+22-07-50.3860,12,0,20,False,False,{}
+22-07-50.3860,12,0,20,False,False,{}
+22-07-50.4418,12,0,21,False,True,{}
+22-07-50.4418,12,0,21,False,True,{}
+22-07-50.5103,14,0,22,False,True,{}
+22-07-50.5103,14,0,22,False,True,{}
+22-07-50.5827,16,0,23,False,True,{}
+22-07-50.5827,16,0,23,False,True,{}
+22-07-50.6327,15,0,24,False,True,{}
+22-07-50.6327,15,0,24,False,True,{}
+22-07-50.6729,15,0,25,False,True,{}
+22-07-50.6729,15,0,25,False,True,{}
+22-07-50.7102,17,0,26,False,True,{}
+22-07-50.7102,17,0,26,False,True,{}
+22-07-50.7452,22,0,27,False,True,{}
+22-07-50.7452,22,0,27,False,True,{}
+22-07-50.8365,26,0,28,False,True,{}
+22-07-50.8365,26,0,28,False,True,{}
+22-07-50.9272,26,0,29,False,True,{}
+22-07-50.9272,26,0,29,False,True,{}
+22-07-50.9527,17,0,30,False,True,{}
+22-07-50.9527,17,0,30,False,True,{}
+22-07-50.9903,17,0,31,False,True,{}
+22-07-50.9903,17,0,31,False,True,{}
+22-07-51.0004,17,0,32,False,True,{}
+22-07-51.0004,17,0,32,False,True,{}
+22-07-51.0905,20,0,33,False,True,{}
+22-07-51.0905,20,0,33,False,True,{}
+22-07-51.1254,20,0,34,False,True,{}
+22-07-51.1254,20,0,34,False,True,{}
+22-07-51.1405,20,0,35,False,True,{}
+22-07-51.1405,20,0,35,False,True,{}
+22-07-51.1798,17,0,36,False,True,{}
+22-07-51.1798,17,0,36,False,True,{}
+22-07-51.2205,20,0,37,False,True,{}
+22-07-51.2205,20,0,37,False,True,{}
+22-07-51.2904,28,0,38,False,True,{}
+22-07-51.2904,28,0,38,False,True,{}
+22-07-51.3001,28,0,39,False,True,{}
+22-07-51.3001,28,0,39,False,True,{}
+22-07-51.4103,22,0,40,False,True,{}
+22-07-51.4103,22,0,40,False,True,{}
+22-07-51.4371,22,0,41,False,True,{}
+22-07-51.4371,22,0,41,False,True,{}
+22-07-51.4655,22,0,42,False,True,{}
+22-07-51.4655,22,0,42,False,True,{}
+22-07-51.5402,17,0,43,False,True,{}
+22-07-51.5402,17,0,43,False,True,{}
+22-07-51.6304,16,0,44,False,True,{}
+22-07-51.6304,16,0,44,False,True,{}
+22-07-51.6744,14,0,45,False,True,{}
+22-07-51.6744,14,0,45,False,True,{}
+22-07-51.9201,14,0,46,False,True,{}
+22-07-51.9201,14,0,46,False,True,{}
+22-07-51.9611,14,0,47,False,True,{}
+22-07-51.9611,14,0,47,False,True,{}
+22-07-51.9769,14,0,48,False,True,{}
+22-07-51.9769,14,0,48,False,True,{}
+22-07-52.0400,12,0,49,False,True,{}
+22-07-52.0400,12,0,49,False,True,{}
+22-07-52.1803,13,0,50,False,True,{}
+22-07-52.1803,13,0,50,False,True,{}
+22-07-52.2326,12,0,51,False,True,{}
+22-07-52.2326,12,0,51,False,True,{}
+22-07-52.3201,14,0,52,False,True,{}
+22-07-52.3201,14,0,52,False,True,{}
+22-07-52.3866,13,0,53,False,True,{}
+22-07-52.3866,13,0,53,False,True,{}
+22-07-52.4505,13,0,54,False,True,{}
+22-07-52.4505,13,0,54,False,True,{}
+22-07-52.4805,13,0,55,False,True,{}
+22-07-52.4805,13,0,55,False,True,{}
+22-07-52.5251,13,0,56,False,True,{}
+22-07-52.5251,13,0,56,False,True,{}
+22-07-52.6560,14,0,57,False,True,{}
+22-07-52.6560,14,0,57,False,True,{}
+22-07-52.7504,11,0,58,False,True,{}
+22-07-52.7504,11,0,58,False,True,{}
+22-07-52.8151,12,0,59,False,True,{}
+22-07-52.8151,12,0,59,False,True,{}
+22-07-52.8786,11,0,60,False,True,{}
+22-07-52.8786,11,0,60,False,True,{}
+22-07-52.9152,15,0,61,False,True,{}
+22-07-52.9152,15,0,61,False,True,{}
+22-07-53.0147,19,0,62,False,True,{}
+22-07-53.0147,19,0,62,False,True,{}
+22-07-53.0902,19,0,63,False,True,{}
+22-07-53.0902,19,0,63,False,True,{}
+22-07-53.1219,14,0,64,False,True,{}
+22-07-53.1219,14,0,64,False,True,{}
+22-07-53.1503,14,0,65,False,True,{}
+22-07-53.1503,14,0,65,False,True,{}
+22-07-53.2345,18,0,66,False,True,{}
+22-07-53.2345,18,0,66,False,True,{}
+22-07-53.2654,18,0,67,False,True,{}
+22-07-53.2654,18,0,67,False,True,{}
+22-07-53.2813,18,0,68,False,True,{}
+22-07-53.2813,18,0,68,False,True,{}
+22-07-53.3112,17,0,69,False,True,{}
+22-07-53.3112,17,0,69,False,True,{}
+22-07-53.3565,21,0,70,False,True,{}
+22-07-53.3565,21,0,70,False,True,{}
+22-07-53.3865,28,0,71,False,True,{}
+22-07-53.3865,28,0,71,False,True,{}
+22-07-53.3955,28,0,72,False,True,{}
+22-07-53.3955,28,0,72,False,True,{}
+22-07-53.4395,28,0,73,False,True,{}
+22-07-53.4395,28,0,73,False,True,{}
+22-07-53.5603,22,0,74,False,True,{}
+22-07-53.5603,22,0,74,False,True,{}
+22-07-53.7404,16,0,75,False,True,{}
+22-07-53.7404,16,0,75,False,True,{}
+22-07-53.8413,11,0,76,False,True,{}
+22-07-53.8413,11,0,76,False,True,{}
+22-07-53.8651,11,0,77,False,True,{}
+22-07-53.8651,11,0,77,False,True,{}
+22-07-53.9255,11,0,78,False,True,{}
+22-07-53.9255,11,0,78,False,True,{}
+22-07-54.0024,12,0,79,False,True,{}
+22-07-54.0024,12,0,79,False,True,{}
+22-07-54.0662,12,0,80,False,True,{}
+22-07-54.0662,12,0,80,False,True,{}
+22-07-54.1274,18,0,81,False,True,{}
+22-07-54.1274,18,0,81,False,True,{}
+22-07-54.1956,21,0,82,False,True,{}
+22-07-54.1956,21,0,82,False,True,{}
+22-07-54.2531,17,0,83,False,True,{}
+22-07-54.2531,17,0,83,False,True,{}
+22-07-54.3060,17,0,84,False,True,{}
+22-07-54.3060,17,0,84,False,True,{}
+22-07-54.3496,16,0,85,False,True,{}
+22-07-54.3496,16,0,85,False,True,{}
+22-07-54.4553,17,0,86,False,True,{}
+22-07-54.4553,17,0,86,False,True,{}
+22-07-54.5501,14,0,87,False,True,{}
+22-07-54.5501,14,0,87,False,True,{}
+22-07-54.6304,13,0,88,False,True,{}
+22-07-54.6304,13,0,88,False,True,{}
+22-07-54.6704,13,0,89,False,True,{}
+22-07-54.6704,13,0,89,False,True,{}
+22-07-54.7907,14,0,90,False,True,{}
+22-07-54.7907,14,0,90,False,True,{}
+22-07-54.8778,12,0,91,False,True,{}
+22-07-54.8778,12,0,91,False,True,{}
+22-07-54.9224,12,0,92,False,True,{}
+22-07-54.9224,12,0,92,False,True,{}
+22-07-55.0403,13,0,93,False,True,{}
+22-07-55.0403,13,0,93,False,True,{}
+22-07-55.1252,12,0,94,False,True,{}
+22-07-55.1252,12,0,94,False,True,{}
+22-07-55.2170,11,0,95,False,True,{}
+22-07-55.2170,11,0,95,False,True,{}
+22-07-55.2480,11,0,96,False,True,{}
+22-07-55.2480,11,0,96,False,True,{}
+22-07-55.3451,17,0,97,False,True,{}
+22-07-55.3451,17,0,97,False,True,{}
+22-07-55.4151,20,0,98,False,True,{}
+22-07-55.4151,20,0,98,False,True,{}
+22-07-55.4904,18,0,99,False,True,{}
+22-07-55.4904,18,0,99,False,True,{}
+22-07-55.5206,18,0,100,False,True,{}
+22-07-55.5206,18,0,100,False,True,{}
+22-07-55.5302,18,0,101,False,True,{}
+22-07-55.5302,18,0,101,False,True,{}
+22-07-55.5905,15,0,102,False,True,{}
+22-07-55.5905,15,0,102,False,True,{}
+22-07-55.6554,15,0,103,False,True,{}
+22-07-55.6554,15,0,103,False,True,{}
+22-07-55.6839,12,0,104,False,True,{}
+22-07-55.6839,12,0,104,False,True,{}
+22-07-55.7551,15,0,105,False,True,{}
+22-07-55.7551,15,0,105,False,True,{}
+22-07-55.7748,15,0,106,False,True,{}
+22-07-55.7748,15,0,106,False,True,{}
+22-07-55.8421,15,0,107,False,True,{}
+22-07-55.8421,15,0,107,False,True,{}
+22-07-55.8851,19,0,108,False,True,{}
+22-07-55.8851,19,0,108,False,True,{}
+22-07-55.9151,25,0,109,False,True,{}
+22-07-55.9151,25,0,109,False,True,{}
+22-07-56.0303,28,0,110,False,True,{}
+22-07-56.0303,28,0,110,False,True,{}
+22-07-56.0751,28,0,111,False,True,{}
+22-07-56.0751,28,0,111,False,True,{}
+22-07-56.1102,17,1,112,False,True,{"FaceCube-1": {"3D Position": "<0.309598 | -0.1975251 | 1.813006>" |"isSubject": "False" |"2D Position": "(1252.5 | 525.5)" } |}
+22-07-56.1102,17,1,112,False,True,{"FaceCube-1": {"3D Position": "<0.309598 | -0.1975251 | 1.813006>" |"isSubject": "False" |"2D Position": "(1252.5 | 525.5)" } |}
+22-07-56.2009,17,1,113,False,True,{"FaceCube-1": {"3D Position": "<0.309598 | -0.1975251 | 1.813006>" |"isSubject": "False" |"2D Position": "(1252.5 | 525.5)" } |}
+22-07-56.2009,17,1,113,False,True,{"FaceCube-1": {"3D Position": "<0.309598 | -0.1975251 | 1.813006>" |"isSubject": "False" |"2D Position": "(1252.5 | 525.5)" } |}
+22-07-56.2702,13,1,114,False,True,{"FaceCube-1": {"3D Position": "<0.309598 | -0.1975251 | 1.813006>" |"isSubject": "False" |"2D Position": "(1252.5 | 525.5)" } |}
+22-07-56.2702,13,1,114,False,True,{"FaceCube-1": {"3D Position": "<0.309598 | -0.1975251 | 1.813006>" |"isSubject": "False" |"2D Position": "(1252.5 | 525.5)" } |}
+22-07-56.3505,17,1,115,False,True,{"FaceCube-1": {"3D Position": "<0.3244468 | -0.2132695 | 1.902929>" |"isSubject": "False" |"2D Position": "(1251.5 | 526.5)" } |}
+22-07-56.3505,17,1,115,False,True,{"FaceCube-1": {"3D Position": "<0.3244468 | -0.2132695 | 1.902929>" |"isSubject": "False" |"2D Position": "(1251.5 | 526.5)" } |}
+22-07-56.3621,17,1,116,False,True,{"FaceCube-1": {"3D Position": "<0.3244468 | -0.2132695 | 1.902929>" |"isSubject": "False" |"2D Position": "(1251.5 | 526.5)" } |}
+22-07-56.3621,17,1,116,False,True,{"FaceCube-1": {"3D Position": "<0.3244468 | -0.2132695 | 1.902929>" |"isSubject": "False" |"2D Position": "(1251.5 | 526.5)" } |}
+22-07-56.4011,19,1,117,False,True,{"FaceCube-1": {"3D Position": "<0.3244468 | -0.2132695 | 1.902929>" |"isSubject": "False" |"2D Position": "(1251.5 | 526.5)" } |}
+22-07-56.4011,19,1,117,False,True,{"FaceCube-1": {"3D Position": "<0.3244468 | -0.2132695 | 1.902929>" |"isSubject": "False" |"2D Position": "(1251.5 | 526.5)" } |}
+22-07-56.6015,18,1,118,False,True,{"FaceCube-1": {"3D Position": "<0.3168112 | -0.2082089 | 1.856443>" |"isSubject": "False" |"2D Position": "(1252 | 528)" } |}
+22-07-56.6015,18,1,118,False,True,{"FaceCube-1": {"3D Position": "<0.3168112 | -0.2082089 | 1.856443>" |"isSubject": "False" |"2D Position": "(1252 | 528)" } |}
+22-07-56.6165,18,1,119,False,True,{"FaceCube-1": {"3D Position": "<0.3168112 | -0.2082089 | 1.856443>" |"isSubject": "False" |"2D Position": "(1252 | 528)" } |}
+22-07-56.6165,18,1,119,False,True,{"FaceCube-1": {"3D Position": "<0.3168112 | -0.2082089 | 1.856443>" |"isSubject": "False" |"2D Position": "(1252 | 528)" } |}
+22-07-56.6285,18,1,120,False,True,{"FaceCube-1": {"3D Position": "<0.3168112 | -0.2082089 | 1.856443>" |"isSubject": "False" |"2D Position": "(1252 | 528)" } |}
+22-07-56.6285,18,1,120,False,True,{"FaceCube-1": {"3D Position": "<0.3168112 | -0.2082089 | 1.856443>" |"isSubject": "False" |"2D Position": "(1252 | 528)" } |}
+22-07-56.7255,15,1,121,False,True,{"FaceCube-1": {"3D Position": "<0.3247679 | -0.2210294 | 1.918511>" |"isSubject": "False" |"2D Position": "(1250 | 534)" } |}
+22-07-56.7255,15,1,121,False,True,{"FaceCube-1": {"3D Position": "<0.3247679 | -0.2210294 | 1.918511>" |"isSubject": "False" |"2D Position": "(1250 | 534)" } |}
+22-07-56.7756,15,1,122,False,True,{"FaceCube-1": {"3D Position": "<0.3247679 | -0.2210294 | 1.918511>" |"isSubject": "False" |"2D Position": "(1250 | 534)" } |}
+22-07-56.7756,15,1,122,False,True,{"FaceCube-1": {"3D Position": "<0.3247679 | -0.2210294 | 1.918511>" |"isSubject": "False" |"2D Position": "(1250 | 534)" } |}
+22-07-56.8155,13,1,123,False,True,{"FaceCube-1": {"3D Position": "<0.3247679 | -0.2210294 | 1.918511>" |"isSubject": "False" |"2D Position": "(1250 | 534)" } |}
+22-07-56.8155,13,1,123,False,True,{"FaceCube-1": {"3D Position": "<0.3247679 | -0.2210294 | 1.918511>" |"isSubject": "False" |"2D Position": "(1250 | 534)" } |}
+22-07-56.8805,14,1,124,False,True,{"FaceCube-1": {"3D Position": "<0.3088041 | -0.2105849 | 1.811324>" |"isSubject": "False" |"2D Position": "(1251.5 | 537.5)" } |}
+22-07-56.8805,14,1,124,False,True,{"FaceCube-1": {"3D Position": "<0.3088041 | -0.2105849 | 1.811324>" |"isSubject": "False" |"2D Position": "(1251.5 | 537.5)" } |}
+22-07-56.9780,14,1,125,False,True,{"FaceCube-1": {"3D Position": "<0.2982142 | -0.2041736 | 1.784988>" |"isSubject": "False" |"2D Position": "(1247.5 | 535.5)" } |}
+22-07-56.9780,14,1,125,False,True,{"FaceCube-1": {"3D Position": "<0.2982142 | -0.2041736 | 1.784988>" |"isSubject": "False" |"2D Position": "(1247.5 | 535.5)" } |}
+22-07-57.0302,13,1,126,False,True,{"FaceCube-1": {"3D Position": "<0.2982142 | -0.2041736 | 1.784988>" |"isSubject": "False" |"2D Position": "(1247.5 | 535.5)" } |}
+22-07-57.0302,13,1,126,False,True,{"FaceCube-1": {"3D Position": "<0.2982142 | -0.2041736 | 1.784988>" |"isSubject": "False" |"2D Position": "(1247.5 | 535.5)" } |}
+22-07-57.1243,13,1,127,False,True,{"FaceCube-1": {"3D Position": "<0.3092069 | -0.2138717 | 1.841773>" |"isSubject": "False" |"2D Position": "(1247.5 | 536.5)" } |}
+22-07-57.1243,13,1,127,False,True,{"FaceCube-1": {"3D Position": "<0.3092069 | -0.2138717 | 1.841773>" |"isSubject": "False" |"2D Position": "(1247.5 | 536.5)" } |}
+22-07-57.1720,15,1,128,False,True,{"FaceCube-1": {"3D Position": "<0.3013505 | -0.2195895 | 1.842251>" |"isSubject": "False" |"2D Position": "(1240.5 | 540.5)" } |}
+22-07-57.1720,15,1,128,False,True,{"FaceCube-1": {"3D Position": "<0.3013505 | -0.2195895 | 1.842251>" |"isSubject": "False" |"2D Position": "(1240.5 | 540.5)" } |}
+22-07-57.2502,18,1,129,False,True,{"FaceCube-1": {"3D Position": "<0.3013505 | -0.2195895 | 1.842251>" |"isSubject": "False" |"2D Position": "(1240.5 | 540.5)" } |}
+22-07-57.2502,18,1,129,False,True,{"FaceCube-1": {"3D Position": "<0.3013505 | -0.2195895 | 1.842251>" |"isSubject": "False" |"2D Position": "(1240.5 | 540.5)" } |}
+22-07-57.2755,18,1,130,False,True,{"FaceCube-1": {"3D Position": "<0.3013505 | -0.2195895 | 1.842251>" |"isSubject": "False" |"2D Position": "(1240.5 | 540.5)" } |}
+22-07-57.2755,18,1,130,False,True,{"FaceCube-1": {"3D Position": "<0.3013505 | -0.2195895 | 1.842251>" |"isSubject": "False" |"2D Position": "(1240.5 | 540.5)" } |}
+22-07-57.3020,15,1,131,False,True,{"FaceCube-1": {"3D Position": "<0.3008797 | -0.2121292 | 1.813046>" |"isSubject": "False" |"2D Position": "(1243.5 | 537.5)" } |}
+22-07-57.3020,15,1,131,False,True,{"FaceCube-1": {"3D Position": "<0.3008797 | -0.2121292 | 1.813046>" |"isSubject": "False" |"2D Position": "(1243.5 | 537.5)" } |}
+22-07-57.4405,18,1,132,False,True,{"FaceCube-1": {"3D Position": "<0.3328408 | -0.2392043 | 1.966512>" |"isSubject": "False" |"2D Position": "(1249.5 | 542.5)" } |}
+22-07-57.4405,18,1,132,False,True,{"FaceCube-1": {"3D Position": "<0.3328408 | -0.2392043 | 1.966512>" |"isSubject": "False" |"2D Position": "(1249.5 | 542.5)" } |}
+22-07-57.4852,20,1,133,False,True,{"FaceCube-1": {"3D Position": "<0.3328408 | -0.2392043 | 1.966512>" |"isSubject": "False" |"2D Position": "(1249.5 | 542.5)" } |}
+22-07-57.4852,20,1,133,False,True,{"FaceCube-1": {"3D Position": "<0.3328408 | -0.2392043 | 1.966512>" |"isSubject": "False" |"2D Position": "(1249.5 | 542.5)" } |}
+22-07-57.5822,19,1,134,False,True,{"FaceCube-1": {"3D Position": "<0.3079014 | -0.2205658 | 1.8564>" |"isSubject": "False" |"2D Position": "(1245 | 539.5)" } |}
+22-07-57.5822,19,1,134,False,True,{"FaceCube-1": {"3D Position": "<0.3079014 | -0.2205658 | 1.8564>" |"isSubject": "False" |"2D Position": "(1245 | 539.5)" } |}
+22-07-57.6252,19,1,135,False,True,{"FaceCube-1": {"3D Position": "<0.3079014 | -0.2205658 | 1.8564>" |"isSubject": "False" |"2D Position": "(1245 | 539.5)" } |}
+22-07-57.6252,19,1,135,False,True,{"FaceCube-1": {"3D Position": "<0.3079014 | -0.2205658 | 1.8564>" |"isSubject": "False" |"2D Position": "(1245 | 539.5)" } |}
+22-07-57.6404,19,1,136,False,True,{"FaceCube-1": {"3D Position": "<0.3079014 | -0.2205658 | 1.8564>" |"isSubject": "False" |"2D Position": "(1245 | 539.5)" } |}
+22-07-57.6404,19,1,136,False,True,{"FaceCube-1": {"3D Position": "<0.3079014 | -0.2205658 | 1.8564>" |"isSubject": "False" |"2D Position": "(1245 | 539.5)" } |}
+22-07-57.6819,16,1,137,False,True,{"FaceCube-1": {"3D Position": "<0.3079014 | -0.2205658 | 1.8564>" |"isSubject": "False" |"2D Position": "(1245 | 539.5)" } |}
+22-07-57.6819,16,1,137,False,True,{"FaceCube-1": {"3D Position": "<0.3079014 | -0.2205658 | 1.8564>" |"isSubject": "False" |"2D Position": "(1245 | 539.5)" } |}
+22-07-57.7156,22,1,138,False,True,{"FaceCube-1": {"3D Position": "<0.3079014 | -0.2205658 | 1.8564>" |"isSubject": "False" |"2D Position": "(1245 | 539.5)" } |}
+22-07-57.7156,22,1,138,False,True,{"FaceCube-1": {"3D Position": "<0.3079014 | -0.2205658 | 1.8564>" |"isSubject": "False" |"2D Position": "(1245 | 539.5)" } |}
+22-07-57.7486,25,1,139,False,True,{"FaceCube-1": {"3D Position": "<0.3337635 | -0.2421189 | 2.002044>" |"isSubject": "False" |"2D Position": "(1245.5 | 542.5)" } |}
+22-07-57.7486,25,1,139,False,True,{"FaceCube-1": {"3D Position": "<0.3337635 | -0.2421189 | 2.002044>" |"isSubject": "False" |"2D Position": "(1245.5 | 542.5)" } |}
+22-07-57.8302,24,1,140,False,True,{"FaceCube-1": {"3D Position": "<0.3337635 | -0.2421189 | 2.002044>" |"isSubject": "False" |"2D Position": "(1245.5 | 542.5)" } |}
+22-07-57.8302,24,1,140,False,True,{"FaceCube-1": {"3D Position": "<0.3337635 | -0.2421189 | 2.002044>" |"isSubject": "False" |"2D Position": "(1245.5 | 542.5)" } |}
+22-07-57.9204,19,1,141,False,True,{"FaceCube-1": {"3D Position": "<0.3234963 | -0.226426 | 1.884596>" |"isSubject": "False" |"2D Position": "(1256 | 542)" } |}
+22-07-57.9204,19,1,141,False,True,{"FaceCube-1": {"3D Position": "<0.3234963 | -0.226426 | 1.884596>" |"isSubject": "False" |"2D Position": "(1256 | 542)" } |}
+22-07-58.0052,18,1,142,False,True,{"FaceCube-1": {"3D Position": "<0.3140889 | -0.2169923 | 1.839518>" |"isSubject": "False" |"2D Position": "(1252.5 | 540.5)" } |}
+22-07-58.0052,18,1,142,False,True,{"FaceCube-1": {"3D Position": "<0.3140889 | -0.2169923 | 1.839518>" |"isSubject": "False" |"2D Position": "(1252.5 | 540.5)" } |}
+22-07-58.0502,18,1,143,False,True,{"FaceCube-1": {"3D Position": "<0.3140889 | -0.2169923 | 1.839518>" |"isSubject": "False" |"2D Position": "(1252.5 | 540.5)" } |}
+22-07-58.0502,18,1,143,False,True,{"FaceCube-1": {"3D Position": "<0.3140889 | -0.2169923 | 1.839518>" |"isSubject": "False" |"2D Position": "(1252.5 | 540.5)" } |}
+22-07-58.0655,18,1,144,False,True,{"FaceCube-1": {"3D Position": "<0.3140889 | -0.2169923 | 1.839518>" |"isSubject": "False" |"2D Position": "(1252.5 | 540.5)" } |}
+22-07-58.0655,18,1,144,False,True,{"FaceCube-1": {"3D Position": "<0.3140889 | -0.2169923 | 1.839518>" |"isSubject": "False" |"2D Position": "(1252.5 | 540.5)" } |}
+22-07-58.1253,13,1,145,False,True,{"FaceCube-1": {"3D Position": "<0.3140889 | -0.2169923 | 1.839518>" |"isSubject": "False" |"2D Position": "(1252.5 | 540.5)" } |}
+22-07-58.1253,13,1,145,False,True,{"FaceCube-1": {"3D Position": "<0.3140889 | -0.2169923 | 1.839518>" |"isSubject": "False" |"2D Position": "(1252.5 | 540.5)" } |}
+22-07-58.1653,16,1,146,False,True,{"FaceCube-1": {"3D Position": "<0.3081034 | -0.2143259 | 1.810488>" |"isSubject": "False" |"2D Position": "(1251.5 | 541.5)" } |}
+22-07-58.1653,16,1,146,False,True,{"FaceCube-1": {"3D Position": "<0.3081034 | -0.2143259 | 1.810488>" |"isSubject": "False" |"2D Position": "(1251.5 | 541.5)" } |}
+22-07-58.1860,19,1,147,False,True,{"FaceCube-1": {"3D Position": "<0.3081034 | -0.2143259 | 1.810488>" |"isSubject": "False" |"2D Position": "(1251.5 | 541.5)" } |}
+22-07-58.1860,19,1,147,False,True,{"FaceCube-1": {"3D Position": "<0.3081034 | -0.2143259 | 1.810488>" |"isSubject": "False" |"2D Position": "(1251.5 | 541.5)" } |}
+22-07-58.2554,22,1,148,False,True,{"FaceCube-1": {"3D Position": "<0.3081034 | -0.2143259 | 1.810488>" |"isSubject": "False" |"2D Position": "(1251.5 | 541.5)" } |}
+22-07-58.2554,22,1,148,False,True,{"FaceCube-1": {"3D Position": "<0.3081034 | -0.2143259 | 1.810488>" |"isSubject": "False" |"2D Position": "(1251.5 | 541.5)" } |}
+22-07-58.3353,17,1,149,False,True,{"FaceCube-1": {"3D Position": "<0.3195393 | -0.2207996 | 1.869608>" |"isSubject": "False" |"2D Position": "(1252.5 | 540)" } |}
+22-07-58.3353,17,1,149,False,True,{"FaceCube-1": {"3D Position": "<0.3195393 | -0.2207996 | 1.869608>" |"isSubject": "False" |"2D Position": "(1252.5 | 540)" } |}
+22-07-58.3653,17,1,150,False,True,{"FaceCube-1": {"3D Position": "<0.3195393 | -0.2207996 | 1.869608>" |"isSubject": "False" |"2D Position": "(1252.5 | 540)" } |}
+22-07-58.3653,17,1,150,False,True,{"FaceCube-1": {"3D Position": "<0.3195393 | -0.2207996 | 1.869608>" |"isSubject": "False" |"2D Position": "(1252.5 | 540)" } |}
+22-07-58.4204,18,1,151,False,True,{"FaceCube-1": {"3D Position": "<0.322138 | -0.2212707 | 1.901935>" |"isSubject": "False" |"2D Position": "(1249.5 | 535.5)" } |}
+22-07-58.4204,18,1,151,False,True,{"FaceCube-1": {"3D Position": "<0.322138 | -0.2212707 | 1.901935>" |"isSubject": "False" |"2D Position": "(1249.5 | 535.5)" } |}
+22-07-58.4702,20,1,152,False,True,{"FaceCube-1": {"3D Position": "<0.3171735 | -0.2139502 | 1.871184>" |"isSubject": "False" |"2D Position": "(1248.5 | 533.5)" } |}
+22-07-58.4702,20,1,152,False,True,{"FaceCube-1": {"3D Position": "<0.3171735 | -0.2139502 | 1.871184>" |"isSubject": "False" |"2D Position": "(1248.5 | 533.5)" } |}
+22-07-58.5702,22,1,153,False,True,{"FaceCube-1": {"3D Position": "<0.3141162 | -0.2108774 | 1.840661>" |"isSubject": "False" |"2D Position": "(1251.5 | 534.5)" } |}
+22-07-58.5702,22,1,153,False,True,{"FaceCube-1": {"3D Position": "<0.3141162 | -0.2108774 | 1.840661>" |"isSubject": "False" |"2D Position": "(1251.5 | 534.5)" } |}
+22-07-58.6103,22,1,154,False,True,{"FaceCube-1": {"3D Position": "<0.3141162 | -0.2108774 | 1.840661>" |"isSubject": "False" |"2D Position": "(1251.5 | 534.5)" } |}
+22-07-58.6103,22,1,154,False,True,{"FaceCube-1": {"3D Position": "<0.3141162 | -0.2108774 | 1.840661>" |"isSubject": "False" |"2D Position": "(1251.5 | 534.5)" } |}
+22-07-58.6220,22,1,155,False,True,{"FaceCube-1": {"3D Position": "<0.3141162 | -0.2108774 | 1.840661>" |"isSubject": "False" |"2D Position": "(1251.5 | 534.5)" } |}
+22-07-58.6220,22,1,155,False,True,{"FaceCube-1": {"3D Position": "<0.3141162 | -0.2108774 | 1.840661>" |"isSubject": "False" |"2D Position": "(1251.5 | 534.5)" } |}
+22-07-58.6653,16,1,156,False,True,{"FaceCube-1": {"3D Position": "<0.3164392 | -0.2167579 | 1.8709>" |"isSubject": "False" |"2D Position": "(1248.5 | 535.5)" } |}
+22-07-58.6653,16,1,156,False,True,{"FaceCube-1": {"3D Position": "<0.3164392 | -0.2167579 | 1.8709>" |"isSubject": "False" |"2D Position": "(1248.5 | 535.5)" } |}
+22-07-58.7171,19,1,157,False,True,{"FaceCube-1": {"3D Position": "<0.3164392 | -0.2167579 | 1.8709>" |"isSubject": "False" |"2D Position": "(1248.5 | 535.5)" } |}
+22-07-58.7171,19,1,157,False,True,{"FaceCube-1": {"3D Position": "<0.3164392 | -0.2167579 | 1.8709>" |"isSubject": "False" |"2D Position": "(1248.5 | 535.5)" } |}
+22-07-58.8002,22,1,158,False,True,{"FaceCube-1": {"3D Position": "<0.3164392 | -0.2167579 | 1.8709>" |"isSubject": "False" |"2D Position": "(1248.5 | 535.5)" } |}
+22-07-58.8002,22,1,158,False,True,{"FaceCube-1": {"3D Position": "<0.3164392 | -0.2167579 | 1.8709>" |"isSubject": "False" |"2D Position": "(1248.5 | 535.5)" } |}
+22-07-58.8302,22,1,159,False,True,{"FaceCube-1": {"3D Position": "<0.3164392 | -0.2167579 | 1.8709>" |"isSubject": "False" |"2D Position": "(1248.5 | 535.5)" } |}
+22-07-58.8302,22,1,159,False,True,{"FaceCube-1": {"3D Position": "<0.3164392 | -0.2167579 | 1.8709>" |"isSubject": "False" |"2D Position": "(1248.5 | 535.5)" } |}
+22-07-58.8671,17,1,160,False,True,{"FaceCube-1": {"3D Position": "<0.318905 | -0.2199538 | 1.902333>" |"isSubject": "False" |"2D Position": "(1245.5 | 536.5)" } |}
+22-07-58.8671,17,1,160,False,True,{"FaceCube-1": {"3D Position": "<0.318905 | -0.2199538 | 1.902333>" |"isSubject": "False" |"2D Position": "(1245.5 | 536.5)" } |}
+22-07-58.9942,21,1,161,False,True,{"FaceCube-1": {"3D Position": "<0.3466543 | -0.2432923 | 2.036143>" |"isSubject": "False" |"2D Position": "(1251.5 | 540.5)" } |}
+22-07-58.9942,21,1,161,False,True,{"FaceCube-1": {"3D Position": "<0.3466543 | -0.2432923 | 2.036143>" |"isSubject": "False" |"2D Position": "(1251.5 | 540.5)" } |}
+22-07-59.0226,21,1,162,False,True,{"FaceCube-1": {"3D Position": "<0.3466543 | -0.2432923 | 2.036143>" |"isSubject": "False" |"2D Position": "(1251.5 | 540.5)" } |}
+22-07-59.0226,21,1,162,False,True,{"FaceCube-1": {"3D Position": "<0.3466543 | -0.2432923 | 2.036143>" |"isSubject": "False" |"2D Position": "(1251.5 | 540.5)" } |}
+22-07-59.0540,18,1,163,False,True,{"FaceCube-1": {"3D Position": "<0.3618895 | -0.2575515 | 2.11073>" |"isSubject": "False" |"2D Position": "(1253.5 | 543.5)" } |}
+22-07-59.0540,18,1,163,False,True,{"FaceCube-1": {"3D Position": "<0.3618895 | -0.2575515 | 2.11073>" |"isSubject": "False" |"2D Position": "(1253.5 | 543.5)" } |}
+22-07-59.1285,18,1,164,False,True,{"FaceCube-1": {"3D Position": "<0.3618895 | -0.2575515 | 2.11073>" |"isSubject": "False" |"2D Position": "(1253.5 | 543.5)" } |}
+22-07-59.1285,18,1,164,False,True,{"FaceCube-1": {"3D Position": "<0.3618895 | -0.2575515 | 2.11073>" |"isSubject": "False" |"2D Position": "(1253.5 | 543.5)" } |}
+22-07-59.1555,18,1,165,False,True,{"FaceCube-1": {"3D Position": "<0.3618895 | -0.2575515 | 2.11073>" |"isSubject": "False" |"2D Position": "(1253.5 | 543.5)" } |}
+22-07-59.1555,18,1,165,False,True,{"FaceCube-1": {"3D Position": "<0.3618895 | -0.2575515 | 2.11073>" |"isSubject": "False" |"2D Position": "(1253.5 | 543.5)" } |}
+22-07-59.1875,19,1,166,False,True,{"FaceCube-1": {"3D Position": "<0.3618895 | -0.2575515 | 2.11073>" |"isSubject": "False" |"2D Position": "(1253.5 | 543.5)" } |}
+22-07-59.1875,19,1,166,False,True,{"FaceCube-1": {"3D Position": "<0.3618895 | -0.2575515 | 2.11073>" |"isSubject": "False" |"2D Position": "(1253.5 | 543.5)" } |}
+22-07-59.2025,23,1,167,False,True,{"FaceCube-1": {"3D Position": "<0.3618895 | -0.2575515 | 2.11073>" |"isSubject": "False" |"2D Position": "(1253.5 | 543.5)" } |}
+22-07-59.2025,23,1,167,False,True,{"FaceCube-1": {"3D Position": "<0.3618895 | -0.2575515 | 2.11073>" |"isSubject": "False" |"2D Position": "(1253.5 | 543.5)" } |}
+22-07-59.2391,29,1,168,False,True,{"FaceCube-1": {"3D Position": "<0.3618895 | -0.2575515 | 2.11073>" |"isSubject": "False" |"2D Position": "(1253.5 | 543.5)" } |}
+22-07-59.2391,29,1,168,False,True,{"FaceCube-1": {"3D Position": "<0.3618895 | -0.2575515 | 2.11073>" |"isSubject": "False" |"2D Position": "(1253.5 | 543.5)" } |}
+22-07-59.2631,29,1,169,False,True,{"FaceCube-1": {"3D Position": "<0.3618895 | -0.2575515 | 2.11073>" |"isSubject": "False" |"2D Position": "(1253.5 | 543.5)" } |}
+22-07-59.2631,29,1,169,False,True,{"FaceCube-1": {"3D Position": "<0.3618895 | -0.2575515 | 2.11073>" |"isSubject": "False" |"2D Position": "(1253.5 | 543.5)" } |}
+22-07-59.3455,26,1,170,False,True,{"FaceCube-1": {"3D Position": "<0.3618895 | -0.2575515 | 2.11073>" |"isSubject": "False" |"2D Position": "(1253.5 | 543.5)" } |}
+22-07-59.3455,26,1,170,False,True,{"FaceCube-1": {"3D Position": "<0.3618895 | -0.2575515 | 2.11073>" |"isSubject": "False" |"2D Position": "(1253.5 | 543.5)" } |}
+22-07-59.4255,18,1,171,False,True,{"FaceCube-1": {"3D Position": "<0.3107156 | -0.2199527 | 1.839383>" |"isSubject": "False" |"2D Position": "(1253.5 | 544)" } |}
+22-07-59.4255,18,1,171,False,True,{"FaceCube-1": {"3D Position": "<0.3107156 | -0.2199527 | 1.839383>" |"isSubject": "False" |"2D Position": "(1253.5 | 544)" } |}
+22-07-59.4804,18,1,172,False,True,{"FaceCube-1": {"3D Position": "<0.3107156 | -0.2199527 | 1.839383>" |"isSubject": "False" |"2D Position": "(1253.5 | 544)" } |}
+22-07-59.4804,18,1,172,False,True,{"FaceCube-1": {"3D Position": "<0.3107156 | -0.2199527 | 1.839383>" |"isSubject": "False" |"2D Position": "(1253.5 | 544)" } |}
+22-07-59.5955,21,1,173,False,True,{"FaceCube-1": {"3D Position": "<0.3354161 | -0.2376394 | 1.9652>" |"isSubject": "False" |"2D Position": "(1254.5 | 544.5)" } |}
+22-07-59.5955,21,1,173,False,True,{"FaceCube-1": {"3D Position": "<0.3354161 | -0.2376394 | 1.9652>" |"isSubject": "False" |"2D Position": "(1254.5 | 544.5)" } |}
+22-07-59.6168,21,1,174,False,True,{"FaceCube-1": {"3D Position": "<0.3354161 | -0.2376394 | 1.9652>" |"isSubject": "False" |"2D Position": "(1254.5 | 544.5)" } |}
+22-07-59.6168,21,1,174,False,True,{"FaceCube-1": {"3D Position": "<0.3354161 | -0.2376394 | 1.9652>" |"isSubject": "False" |"2D Position": "(1254.5 | 544.5)" } |}
+22-07-59.6901,21,1,175,False,True,{"FaceCube-1": {"3D Position": "<0.3384073 | -0.2379352 | 1.964535>" |"isSubject": "False" |"2D Position": "(1256.5 | 545.5)" } |}
+22-07-59.6901,21,1,175,False,True,{"FaceCube-1": {"3D Position": "<0.3384073 | -0.2379352 | 1.964535>" |"isSubject": "False" |"2D Position": "(1256.5 | 545.5)" } |}
+22-07-59.7104,21,1,176,False,True,{"FaceCube-1": {"3D Position": "<0.3384073 | -0.2379352 | 1.964535>" |"isSubject": "False" |"2D Position": "(1256.5 | 545.5)" } |}
+22-07-59.7104,21,1,176,False,True,{"FaceCube-1": {"3D Position": "<0.3384073 | -0.2379352 | 1.964535>" |"isSubject": "False" |"2D Position": "(1256.5 | 545.5)" } |}
+22-07-59.8252,17,1,177,False,True,{"FaceCube-1": {"3D Position": "<0.3384073 | -0.2379352 | 1.964535>" |"isSubject": "False" |"2D Position": "(1256.5 | 545.5)" } |}
+22-07-59.8252,17,1,177,False,True,{"FaceCube-1": {"3D Position": "<0.3384073 | -0.2379352 | 1.964535>" |"isSubject": "False" |"2D Position": "(1256.5 | 545.5)" } |}
+22-07-59.9124,14,1,178,False,True,{"FaceCube-1": {"3D Position": "<0.3384073 | -0.2379352 | 1.964535>" |"isSubject": "False" |"2D Position": "(1256.5 | 545.5)" } |}
+22-07-59.9124,14,1,178,False,True,{"FaceCube-1": {"3D Position": "<0.3384073 | -0.2379352 | 1.964535>" |"isSubject": "False" |"2D Position": "(1256.5 | 545.5)" } |}
+22-08-00.0015,16,1,179,False,True,{"FaceCube-1": {"3D Position": "<0.3360313 | -0.2343717 | 1.930873>" |"isSubject": "False" |"2D Position": "(1259.5 | 545.5)" } |}
+22-08-00.0015,16,1,179,False,True,{"FaceCube-1": {"3D Position": "<0.3360313 | -0.2343717 | 1.930873>" |"isSubject": "False" |"2D Position": "(1259.5 | 545.5)" } |}
+22-08-00.1829,15,1,180,False,True,{"FaceCube-1": {"3D Position": "<0.3483792 | -0.2393251 | 1.999458>" |"isSubject": "False" |"2D Position": "(1258.5 | 540.5)" } |}
+22-08-00.1829,15,1,180,False,True,{"FaceCube-1": {"3D Position": "<0.3483792 | -0.2393251 | 1.999458>" |"isSubject": "False" |"2D Position": "(1258.5 | 540.5)" } |}
+22-08-00.2334,13,1,181,False,True,{"FaceCube-1": {"3D Position": "<0.3236035 | -0.2207059 | 1.86872>" |"isSubject": "False" |"2D Position": "(1257.5 | 542)" } |}
+22-08-00.2334,13,1,181,False,True,{"FaceCube-1": {"3D Position": "<0.3236035 | -0.2207059 | 1.86872>" |"isSubject": "False" |"2D Position": "(1257.5 | 542)" } |}
+22-08-00.2676,13,1,182,False,True,{"FaceCube-1": {"3D Position": "<0.3236035 | -0.2207059 | 1.86872>" |"isSubject": "False" |"2D Position": "(1257.5 | 542)" } |}
+22-08-00.2676,13,1,182,False,True,{"FaceCube-1": {"3D Position": "<0.3236035 | -0.2207059 | 1.86872>" |"isSubject": "False" |"2D Position": "(1257.5 | 542)" } |}
+22-08-00.2878,13,1,183,False,True,{"FaceCube-1": {"3D Position": "<0.3236035 | -0.2207059 | 1.86872>" |"isSubject": "False" |"2D Position": "(1257.5 | 542)" } |}
+22-08-00.2878,13,1,183,False,True,{"FaceCube-1": {"3D Position": "<0.3236035 | -0.2207059 | 1.86872>" |"isSubject": "False" |"2D Position": "(1257.5 | 542)" } |}
+22-08-00.3133,13,1,184,False,True,{"FaceCube-1": {"3D Position": "<0.3236035 | -0.2207059 | 1.86872>" |"isSubject": "False" |"2D Position": "(1257.5 | 542)" } |}
+22-08-00.3133,13,1,184,False,True,{"FaceCube-1": {"3D Position": "<0.3236035 | -0.2207059 | 1.86872>" |"isSubject": "False" |"2D Position": "(1257.5 | 542)" } |}
+22-08-00.3640,12,1,185,False,True,{"FaceCube-1": {"3D Position": "<0.3236035 | -0.2207059 | 1.86872>" |"isSubject": "False" |"2D Position": "(1257.5 | 542)" } |}
+22-08-00.3640,12,1,185,False,True,{"FaceCube-1": {"3D Position": "<0.3236035 | -0.2207059 | 1.86872>" |"isSubject": "False" |"2D Position": "(1257.5 | 542)" } |}
+22-08-00.4916,13,1,186,False,True,{"FaceCube-1": {"3D Position": "<0.328884 | -0.2255247 | 1.933348>" |"isSubject": "False" |"2D Position": "(1251.5 | 539)" } |}
+22-08-00.4916,13,1,186,False,True,{"FaceCube-1": {"3D Position": "<0.328884 | -0.2255247 | 1.933348>" |"isSubject": "False" |"2D Position": "(1251.5 | 539)" } |}
+22-08-00.5417,13,1,187,False,True,{"FaceCube-1": {"3D Position": "<0.3283957 | -0.22116 | 1.900768>" |"isSubject": "False" |"2D Position": "(1257.5 | 537.5)" } |}
+22-08-00.5417,13,1,187,False,True,{"FaceCube-1": {"3D Position": "<0.3283957 | -0.22116 | 1.900768>" |"isSubject": "False" |"2D Position": "(1257.5 | 537.5)" } |}
+22-08-00.5717,13,1,188,False,True,{"FaceCube-1": {"3D Position": "<0.3283957 | -0.22116 | 1.900768>" |"isSubject": "False" |"2D Position": "(1257.5 | 537.5)" } |}
+22-08-00.5717,13,1,188,False,True,{"FaceCube-1": {"3D Position": "<0.3283957 | -0.22116 | 1.900768>" |"isSubject": "False" |"2D Position": "(1257.5 | 537.5)" } |}
+22-08-00.6674,14,1,189,False,True,{"FaceCube-1": {"3D Position": "<0.3283957 | -0.22116 | 1.900768>" |"isSubject": "False" |"2D Position": "(1257.5 | 537.5)" } |}
+22-08-00.6674,14,1,189,False,True,{"FaceCube-1": {"3D Position": "<0.3283957 | -0.22116 | 1.900768>" |"isSubject": "False" |"2D Position": "(1257.5 | 537.5)" } |}
+22-08-00.7784,15,1,190,False,True,{"FaceCube-1": {"3D Position": "<0.3301072 | -0.2192079 | 1.90072>" |"isSubject": "False" |"2D Position": "(1258.5 | 534.5)" } |}
+22-08-00.7784,15,1,190,False,True,{"FaceCube-1": {"3D Position": "<0.3301072 | -0.2192079 | 1.90072>" |"isSubject": "False" |"2D Position": "(1258.5 | 534.5)" } |}
+22-08-00.8901,18,1,191,False,True,{"FaceCube-1": {"3D Position": "<0.3301072 | -0.2192079 | 1.90072>" |"isSubject": "False" |"2D Position": "(1258.5 | 534.5)" } |}
+22-08-00.8901,18,1,191,False,True,{"FaceCube-1": {"3D Position": "<0.3301072 | -0.2192079 | 1.90072>" |"isSubject": "False" |"2D Position": "(1258.5 | 534.5)" } |}
+22-08-00.9150,18,1,192,False,True,{"FaceCube-1": {"3D Position": "<0.3301072 | -0.2192079 | 1.90072>" |"isSubject": "False" |"2D Position": "(1258.5 | 534.5)" } |}
+22-08-00.9150,18,1,192,False,True,{"FaceCube-1": {"3D Position": "<0.3301072 | -0.2192079 | 1.90072>" |"isSubject": "False" |"2D Position": "(1258.5 | 534.5)" } |}
+22-08-00.9955,13,1,193,False,True,{"FaceCube-1": {"3D Position": "<0.3122225 | -0.2054031 | 1.796067>" |"isSubject": "False" |"2D Position": "(1261 | 537)" } |}
+22-08-00.9955,13,1,193,False,True,{"FaceCube-1": {"3D Position": "<0.3122225 | -0.2054031 | 1.796067>" |"isSubject": "False" |"2D Position": "(1261 | 537)" } |}
+22-08-01.0770,13,1,194,False,True,{"FaceCube-1": {"3D Position": "<0.3122225 | -0.2054031 | 1.796067>" |"isSubject": "False" |"2D Position": "(1261 | 537)" } |}
+22-08-01.0770,13,1,194,False,True,{"FaceCube-1": {"3D Position": "<0.3122225 | -0.2054031 | 1.796067>" |"isSubject": "False" |"2D Position": "(1261 | 537)" } |}
+22-08-01.1108,11,1,195,False,True,{"FaceCube-1": {"3D Position": "<0.3220849 | -0.2117774 | 1.838557>" |"isSubject": "False" |"2D Position": "(1261.5 | 539)" } |}
+22-08-01.1108,11,1,195,False,True,{"FaceCube-1": {"3D Position": "<0.3220849 | -0.2117774 | 1.838557>" |"isSubject": "False" |"2D Position": "(1261.5 | 539)" } |}
+22-08-01.1970,12,1,196,False,True,{"FaceCube-1": {"3D Position": "<0.3152893 | -0.2032925 | 1.810439>" |"isSubject": "False" |"2D Position": "(1260.5 | 534.5)" } |}
+22-08-01.1970,12,1,196,False,True,{"FaceCube-1": {"3D Position": "<0.3152893 | -0.2032925 | 1.810439>" |"isSubject": "False" |"2D Position": "(1260.5 | 534.5)" } |}
+22-08-01.2646,13,1,197,False,True,{"FaceCube-1": {"3D Position": "<0.3250053 | -0.2091618 | 1.853896>" |"isSubject": "False" |"2D Position": "(1261 | 535)" } |}
+22-08-01.2646,13,1,197,False,True,{"FaceCube-1": {"3D Position": "<0.3250053 | -0.2091618 | 1.853896>" |"isSubject": "False" |"2D Position": "(1261 | 535)" } |}
+22-08-01.3165,16,1,198,False,True,{"FaceCube-1": {"3D Position": "<0.3250053 | -0.2091618 | 1.853896>" |"isSubject": "False" |"2D Position": "(1261 | 535)" } |}
+22-08-01.3165,16,1,198,False,True,{"FaceCube-1": {"3D Position": "<0.3250053 | -0.2091618 | 1.853896>" |"isSubject": "False" |"2D Position": "(1261 | 535)" } |}
+22-08-01.3477,16,1,199,False,True,{"FaceCube-1": {"3D Position": "<0.3250053 | -0.2091618 | 1.853896>" |"isSubject": "False" |"2D Position": "(1261 | 535)" } |}
+22-08-01.3477,16,1,199,False,True,{"FaceCube-1": {"3D Position": "<0.3250053 | -0.2091618 | 1.853896>" |"isSubject": "False" |"2D Position": "(1261 | 535)" } |}
+22-08-01.4130,15,1,200,False,True,{"FaceCube-1": {"3D Position": "<0.3061762 | -0.1926352 | 1.741203>" |"isSubject": "False" |"2D Position": "(1262 | 534)" } |}
+22-08-01.4130,15,1,200,False,True,{"FaceCube-1": {"3D Position": "<0.3061762 | -0.1926352 | 1.741203>" |"isSubject": "False" |"2D Position": "(1262 | 534)" } |}
+22-08-01.5032,14,1,201,False,True,{"FaceCube-1": {"3D Position": "<0.3061762 | -0.1926352 | 1.741203>" |"isSubject": "False" |"2D Position": "(1262 | 534)" } |}
+22-08-01.5032,14,1,201,False,True,{"FaceCube-1": {"3D Position": "<0.3061762 | -0.1926352 | 1.741203>" |"isSubject": "False" |"2D Position": "(1262 | 534)" } |}
+22-08-01.6133,13,1,202,False,True,{"FaceCube-1": {"3D Position": "<0.3061762 | -0.1926352 | 1.741203>" |"isSubject": "False" |"2D Position": "(1262 | 534)" } |}
+22-08-01.6133,13,1,202,False,True,{"FaceCube-1": {"3D Position": "<0.3061762 | -0.1926352 | 1.741203>" |"isSubject": "False" |"2D Position": "(1262 | 534)" } |}
+22-08-01.6904,12,1,203,False,True,{"FaceCube-1": {"3D Position": "<0.3181803 | -0.2053038 | 1.795007>" |"isSubject": "False" |"2D Position": "(1263 | 536)" } |}
+22-08-01.6904,12,1,203,False,True,{"FaceCube-1": {"3D Position": "<0.3181803 | -0.2053038 | 1.795007>" |"isSubject": "False" |"2D Position": "(1263 | 536)" } |}
+22-08-01.7882,12,1,204,False,True,{"FaceCube-1": {"3D Position": "<0.3381044 | -0.2185681 | 1.91601>" |"isSubject": "False" |"2D Position": "(1259 | 532.5)" } |}
+22-08-01.7882,12,1,204,False,True,{"FaceCube-1": {"3D Position": "<0.3381044 | -0.2185681 | 1.91601>" |"isSubject": "False" |"2D Position": "(1259 | 532.5)" } |}
+22-08-01.8475,11,1,205,False,True,{"FaceCube-1": {"3D Position": "<0.3188475 | -0.206065 | 1.824739>" |"isSubject": "False" |"2D Position": "(1255 | 534)" } |}
+22-08-01.8475,11,1,205,False,True,{"FaceCube-1": {"3D Position": "<0.3188475 | -0.206065 | 1.824739>" |"isSubject": "False" |"2D Position": "(1255 | 534)" } |}
+22-08-01.8838,15,1,206,False,True,{"FaceCube-1": {"3D Position": "<0.3188475 | -0.206065 | 1.824739>" |"isSubject": "False" |"2D Position": "(1255 | 534)" } |}
+22-08-01.8838,15,1,206,False,True,{"FaceCube-1": {"3D Position": "<0.3188475 | -0.206065 | 1.824739>" |"isSubject": "False" |"2D Position": "(1255 | 534)" } |}
+22-08-01.9039,18,1,207,False,True,{"FaceCube-1": {"3D Position": "<0.3188475 | -0.206065 | 1.824739>" |"isSubject": "False" |"2D Position": "(1255 | 534)" } |}
+22-08-01.9039,18,1,207,False,True,{"FaceCube-1": {"3D Position": "<0.3188475 | -0.206065 | 1.824739>" |"isSubject": "False" |"2D Position": "(1255 | 534)" } |}
+22-08-01.9632,21,1,208,False,True,{"FaceCube-1": {"3D Position": "<0.3188475 | -0.206065 | 1.824739>" |"isSubject": "False" |"2D Position": "(1255 | 534)" } |}
+22-08-01.9632,21,1,208,False,True,{"FaceCube-1": {"3D Position": "<0.3188475 | -0.206065 | 1.824739>" |"isSubject": "False" |"2D Position": "(1255 | 534)" } |}
+22-08-02.0262,21,1,209,False,True,{"FaceCube-1": {"3D Position": "<0.3188475 | -0.206065 | 1.824739>" |"isSubject": "False" |"2D Position": "(1255 | 534)" } |}
+22-08-02.0262,21,1,209,False,True,{"FaceCube-1": {"3D Position": "<0.3188475 | -0.206065 | 1.824739>" |"isSubject": "False" |"2D Position": "(1255 | 534)" } |}
+22-08-02.0412,24,1,210,False,True,{"FaceCube-1": {"3D Position": "<0.3188475 | -0.206065 | 1.824739>" |"isSubject": "False" |"2D Position": "(1255 | 534)" } |}
+22-08-02.0412,24,1,210,False,True,{"FaceCube-1": {"3D Position": "<0.3188475 | -0.206065 | 1.824739>" |"isSubject": "False" |"2D Position": "(1255 | 534)" } |}
+22-08-02.0788,28,1,211,False,True,{"FaceCube-1": {"3D Position": "<0.3188475 | -0.206065 | 1.824739>" |"isSubject": "False" |"2D Position": "(1255 | 534)" } |}
+22-08-02.0788,28,1,211,False,True,{"FaceCube-1": {"3D Position": "<0.3188475 | -0.206065 | 1.824739>" |"isSubject": "False" |"2D Position": "(1255 | 534)" } |}
+22-08-02.1563,24,1,212,False,True,{"FaceCube-1": {"3D Position": "<0.3188475 | -0.206065 | 1.824739>" |"isSubject": "False" |"2D Position": "(1255 | 534)" } |}
+22-08-02.1563,24,1,212,False,True,{"FaceCube-1": {"3D Position": "<0.3188475 | -0.206065 | 1.824739>" |"isSubject": "False" |"2D Position": "(1255 | 534)" } |}
+22-08-02.3527,21,1,213,False,True,{"FaceCube-1": {"3D Position": "<0.3204944 | -0.2141055 | 1.854111>" |"isSubject": "False" |"2D Position": "(1251 | 539)" } |}
+22-08-02.3527,21,1,213,False,True,{"FaceCube-1": {"3D Position": "<0.3204944 | -0.2141055 | 1.854111>" |"isSubject": "False" |"2D Position": "(1251 | 539)" } |}
+22-08-02.3824,21,1,214,False,True,{"FaceCube-1": {"3D Position": "<0.3204944 | -0.2141055 | 1.854111>" |"isSubject": "False" |"2D Position": "(1251 | 539)" } |}
+22-08-02.3824,21,1,214,False,True,{"FaceCube-1": {"3D Position": "<0.3204944 | -0.2141055 | 1.854111>" |"isSubject": "False" |"2D Position": "(1251 | 539)" } |}
+22-08-02.4416,11,1,215,False,True,{"FaceCube-1": {"3D Position": "<0.3075788 | -0.1980833 | 1.754479>" |"isSubject": "False" |"2D Position": "(1256.5 | 536.5)" } |}
+22-08-02.4416,11,1,215,False,True,{"FaceCube-1": {"3D Position": "<0.3075788 | -0.1980833 | 1.754479>" |"isSubject": "False" |"2D Position": "(1256.5 | 536.5)" } |}
+22-08-02.4696,11,1,216,False,True,{"FaceCube-1": {"3D Position": "<0.3075788 | -0.1980833 | 1.754479>" |"isSubject": "False" |"2D Position": "(1256.5 | 536.5)" } |}
+22-08-02.4696,11,1,216,False,True,{"FaceCube-1": {"3D Position": "<0.3075788 | -0.1980833 | 1.754479>" |"isSubject": "False" |"2D Position": "(1256.5 | 536.5)" } |}
+22-08-02.5963,13,1,217,False,True,{"FaceCube-1": {"3D Position": "<0.3382471 | -0.2175476 | 1.915622>" |"isSubject": "False" |"2D Position": "(1255 | 535)" } |}
+22-08-02.5963,13,1,217,False,True,{"FaceCube-1": {"3D Position": "<0.3382471 | -0.2175476 | 1.915622>" |"isSubject": "False" |"2D Position": "(1255 | 535)" } |}
+22-08-02.6746,12,1,218,False,True,{"FaceCube-1": {"3D Position": "<0.3382471 | -0.2175476 | 1.915622>" |"isSubject": "False" |"2D Position": "(1255 | 535)" } |}
+22-08-02.6746,12,1,218,False,True,{"FaceCube-1": {"3D Position": "<0.3382471 | -0.2175476 | 1.915622>" |"isSubject": "False" |"2D Position": "(1255 | 535)" } |}
+22-08-02.7008,12,1,219,False,True,{"FaceCube-1": {"3D Position": "<0.3382471 | -0.2175476 | 1.915622>" |"isSubject": "False" |"2D Position": "(1255 | 535)" } |}
+22-08-02.7008,12,1,219,False,True,{"FaceCube-1": {"3D Position": "<0.3382471 | -0.2175476 | 1.915622>" |"isSubject": "False" |"2D Position": "(1255 | 535)" } |}
+22-08-02.7363,14,1,220,False,True,{"FaceCube-1": {"3D Position": "<0.3216387 | -0.2088467 | 1.839167>" |"isSubject": "False" |"2D Position": "(1255.5 | 535.5)" } |}
+22-08-02.7363,14,1,220,False,True,{"FaceCube-1": {"3D Position": "<0.3216387 | -0.2088467 | 1.839167>" |"isSubject": "False" |"2D Position": "(1255.5 | 535.5)" } |}
+22-08-02.7657,20,1,221,False,True,{"FaceCube-1": {"3D Position": "<0.3253861 | -0.2170764 | 1.86884>" |"isSubject": "False" |"2D Position": "(1255.5 | 538.5)" } |}
+22-08-02.7657,20,1,221,False,True,{"FaceCube-1": {"3D Position": "<0.3253861 | -0.2170764 | 1.86884>" |"isSubject": "False" |"2D Position": "(1255.5 | 538.5)" } |}
+22-08-02.7855,23,1,222,False,True,{"FaceCube-1": {"3D Position": "<0.3253861 | -0.2170764 | 1.86884>" |"isSubject": "False" |"2D Position": "(1255.5 | 538.5)" } |}
+22-08-02.7855,23,1,222,False,True,{"FaceCube-1": {"3D Position": "<0.3253861 | -0.2170764 | 1.86884>" |"isSubject": "False" |"2D Position": "(1255.5 | 538.5)" } |}
+22-08-02.8004,23,1,223,False,True,{"FaceCube-1": {"3D Position": "<0.3253861 | -0.2170764 | 1.86884>" |"isSubject": "False" |"2D Position": "(1255.5 | 538.5)" } |}
+22-08-02.8004,23,1,223,False,True,{"FaceCube-1": {"3D Position": "<0.3253861 | -0.2170764 | 1.86884>" |"isSubject": "False" |"2D Position": "(1255.5 | 538.5)" } |}
+22-08-02.8404,23,1,224,False,True,{"FaceCube-1": {"3D Position": "<0.3253861 | -0.2170764 | 1.86884>" |"isSubject": "False" |"2D Position": "(1255.5 | 538.5)" } |}
+22-08-02.8404,23,1,224,False,True,{"FaceCube-1": {"3D Position": "<0.3253861 | -0.2170764 | 1.86884>" |"isSubject": "False" |"2D Position": "(1255.5 | 538.5)" } |}
+22-08-02.9246,24,1,225,False,True,{"FaceCube-1": {"3D Position": "<0.3227262 | -0.2167213 | 1.885432>" |"isSubject": "False" |"2D Position": "(1252 | 537)" } |}
+22-08-02.9246,24,1,225,False,True,{"FaceCube-1": {"3D Position": "<0.3227262 | -0.2167213 | 1.885432>" |"isSubject": "False" |"2D Position": "(1252 | 537)" } |}
+22-08-03.0432,24,1,226,False,True,{"FaceCube-1": {"3D Position": "<0.3227262 | -0.2167213 | 1.885432>" |"isSubject": "False" |"2D Position": "(1252 | 537)" } |}
+22-08-03.0432,24,1,226,False,True,{"FaceCube-1": {"3D Position": "<0.3227262 | -0.2167213 | 1.885432>" |"isSubject": "False" |"2D Position": "(1252 | 537)" } |}
+22-08-03.0864,15,1,227,False,True,{"FaceCube-1": {"3D Position": "<0.3195765 | -0.2152476 | 1.886257>" |"isSubject": "False" |"2D Position": "(1251 | 535)" } |}
+22-08-03.0864,15,1,227,False,True,{"FaceCube-1": {"3D Position": "<0.3195765 | -0.2152476 | 1.886257>" |"isSubject": "False" |"2D Position": "(1251 | 535)" } |}
+22-08-03.1554,16,1,228,False,True,{"FaceCube-1": {"3D Position": "<0.3211402 | -0.2167632 | 1.885812>" |"isSubject": "False" |"2D Position": "(1253 | 536)" } |}
+22-08-03.1554,16,1,228,False,True,{"FaceCube-1": {"3D Position": "<0.3211402 | -0.2167632 | 1.885812>" |"isSubject": "False" |"2D Position": "(1253 | 536)" } |}
+22-08-03.2006,16,1,229,False,True,{"FaceCube-1": {"3D Position": "<0.3211402 | -0.2167632 | 1.885812>" |"isSubject": "False" |"2D Position": "(1253 | 536)" } |}
+22-08-03.2006,16,1,229,False,True,{"FaceCube-1": {"3D Position": "<0.3211402 | -0.2167632 | 1.885812>" |"isSubject": "False" |"2D Position": "(1253 | 536)" } |}
+22-08-03.2615,14,1,230,False,True,{"FaceCube-1": {"3D Position": "<0.3136094 | -0.2128397 | 1.855629>" |"isSubject": "False" |"2D Position": "(1253 | 536)" } |}
+22-08-03.2615,14,1,230,False,True,{"FaceCube-1": {"3D Position": "<0.3136094 | -0.2128397 | 1.855629>" |"isSubject": "False" |"2D Position": "(1253 | 536)" } |}
+22-08-03.3805,14,1,231,False,True,{"FaceCube-1": {"3D Position": "<0.3136094 | -0.2128397 | 1.855629>" |"isSubject": "False" |"2D Position": "(1253 | 536)" } |}
+22-08-03.3805,14,1,231,False,True,{"FaceCube-1": {"3D Position": "<0.3136094 | -0.2128397 | 1.855629>" |"isSubject": "False" |"2D Position": "(1253 | 536)" } |}
+22-08-03.5003,16,1,232,False,True,{"FaceCube-1": {"3D Position": "<0.3038097 | -0.2060602 | 1.812165>" |"isSubject": "False" |"2D Position": "(1251.5 | 535.5)" } |}
+22-08-03.5003,16,1,232,False,True,{"FaceCube-1": {"3D Position": "<0.3038097 | -0.2060602 | 1.812165>" |"isSubject": "False" |"2D Position": "(1251.5 | 535.5)" } |}
+22-08-03.5304,16,1,233,False,True,{"FaceCube-1": {"3D Position": "<0.3038097 | -0.2060602 | 1.812165>" |"isSubject": "False" |"2D Position": "(1251.5 | 535.5)" } |}
+22-08-03.5304,16,1,233,False,True,{"FaceCube-1": {"3D Position": "<0.3038097 | -0.2060602 | 1.812165>" |"isSubject": "False" |"2D Position": "(1251.5 | 535.5)" } |}
+22-08-03.5854,15,1,234,False,True,{"FaceCube-1": {"3D Position": "<0.3038097 | -0.2060602 | 1.812165>" |"isSubject": "False" |"2D Position": "(1251.5 | 535.5)" } |}
+22-08-03.5854,15,1,234,False,True,{"FaceCube-1": {"3D Position": "<0.3038097 | -0.2060602 | 1.812165>" |"isSubject": "False" |"2D Position": "(1251.5 | 535.5)" } |}
+22-08-03.6103,15,1,235,False,True,{"FaceCube-1": {"3D Position": "<0.3038097 | -0.2060602 | 1.812165>" |"isSubject": "False" |"2D Position": "(1251.5 | 535.5)" } |}
+22-08-03.6103,15,1,235,False,True,{"FaceCube-1": {"3D Position": "<0.3038097 | -0.2060602 | 1.812165>" |"isSubject": "False" |"2D Position": "(1251.5 | 535.5)" } |}
+22-08-03.6503,14,1,236,False,True,{"FaceCube-1": {"3D Position": "<0.3233832 | -0.213461 | 1.885566>" |"isSubject": "False" |"2D Position": "(1256 | 535)" } |}
+22-08-03.6503,14,1,236,False,True,{"FaceCube-1": {"3D Position": "<0.3233832 | -0.213461 | 1.885566>" |"isSubject": "False" |"2D Position": "(1256 | 535)" } |}
+22-08-03.6904,18,1,237,False,True,{"FaceCube-1": {"3D Position": "<0.3233832 | -0.213461 | 1.885566>" |"isSubject": "False" |"2D Position": "(1256 | 535)" } |}
+22-08-03.6904,18,1,237,False,True,{"FaceCube-1": {"3D Position": "<0.3233832 | -0.213461 | 1.885566>" |"isSubject": "False" |"2D Position": "(1256 | 535)" } |}
+22-08-03.7126,25,1,238,False,True,{"FaceCube-1": {"3D Position": "<0.3233832 | -0.213461 | 1.885566>" |"isSubject": "False" |"2D Position": "(1256 | 535)" } |}
+22-08-03.7126,25,1,238,False,True,{"FaceCube-1": {"3D Position": "<0.3233832 | -0.213461 | 1.885566>" |"isSubject": "False" |"2D Position": "(1256 | 535)" } |}
+22-08-03.7627,28,1,239,False,True,{"FaceCube-1": {"3D Position": "<0.3303158 | -0.2155131 | 1.917672>" |"isSubject": "False" |"2D Position": "(1257 | 531)" } |}
+22-08-03.7627,28,1,239,False,True,{"FaceCube-1": {"3D Position": "<0.3303158 | -0.2155131 | 1.917672>" |"isSubject": "False" |"2D Position": "(1257 | 531)" } |}
+22-08-03.8672,25,1,240,False,True,{"FaceCube-1": {"3D Position": "<0.3303158 | -0.2155131 | 1.917672>" |"isSubject": "False" |"2D Position": "(1257 | 531)" } |}
+22-08-03.8672,25,1,240,False,True,{"FaceCube-1": {"3D Position": "<0.3303158 | -0.2155131 | 1.917672>" |"isSubject": "False" |"2D Position": "(1257 | 531)" } |}
+22-08-03.9756,22,1,241,False,True,{"FaceCube-1": {"3D Position": "<0.3096702 | -0.2058839 | 1.826638>" |"isSubject": "False" |"2D Position": "(1252 | 532.5)" } |}
+22-08-03.9756,22,1,241,False,True,{"FaceCube-1": {"3D Position": "<0.3096702 | -0.2058839 | 1.826638>" |"isSubject": "False" |"2D Position": "(1252 | 532.5)" } |}
+22-08-03.9904,22,1,242,False,True,{"FaceCube-1": {"3D Position": "<0.3096702 | -0.2058839 | 1.826638>" |"isSubject": "False" |"2D Position": "(1252 | 532.5)" } |}
+22-08-03.9904,22,1,242,False,True,{"FaceCube-1": {"3D Position": "<0.3096702 | -0.2058839 | 1.826638>" |"isSubject": "False" |"2D Position": "(1252 | 532.5)" } |}
+22-08-04.0203,22,1,243,False,True,{"FaceCube-1": {"3D Position": "<0.3096702 | -0.2058839 | 1.826638>" |"isSubject": "False" |"2D Position": "(1252 | 532.5)" } |}
+22-08-04.0203,22,1,243,False,True,{"FaceCube-1": {"3D Position": "<0.3096702 | -0.2058839 | 1.826638>" |"isSubject": "False" |"2D Position": "(1252 | 532.5)" } |}
+22-08-04.0755,22,1,244,False,True,{"FaceCube-1": {"3D Position": "<0.3096702 | -0.2058839 | 1.826638>" |"isSubject": "False" |"2D Position": "(1252 | 532.5)" } |}
+22-08-04.0755,22,1,244,False,True,{"FaceCube-1": {"3D Position": "<0.3096702 | -0.2058839 | 1.826638>" |"isSubject": "False" |"2D Position": "(1252 | 532.5)" } |}
+22-08-04.3056,13,1,245,False,True,{"FaceCube-1": {"3D Position": "<0.3179297 | -0.2076785 | 1.871666>" |"isSubject": "False" |"2D Position": "(1252.5 | 530.5)" } |}
+22-08-04.3056,13,1,245,False,True,{"FaceCube-1": {"3D Position": "<0.3179297 | -0.2076785 | 1.871666>" |"isSubject": "False" |"2D Position": "(1252.5 | 530.5)" } |}
+22-08-04.3954,9,1,246,False,True,{"FaceCube-1": {"3D Position": "<0.3174352 | -0.2064691 | 1.856053>" |"isSubject": "False" |"2D Position": "(1254 | 531)" } |}
+22-08-04.3954,9,1,246,False,True,{"FaceCube-1": {"3D Position": "<0.3174352 | -0.2064691 | 1.856053>" |"isSubject": "False" |"2D Position": "(1254 | 531)" } |}
+22-08-04.4507,9,1,247,False,True,{"FaceCube-1": {"3D Position": "<0.31276 | -0.2039072 | 1.841633>" |"isSubject": "False" |"2D Position": "(1252.5 | 530.5)" } |}
+22-08-04.4507,9,1,247,False,True,{"FaceCube-1": {"3D Position": "<0.31276 | -0.2039072 | 1.841633>" |"isSubject": "False" |"2D Position": "(1252.5 | 530.5)" } |}
+22-08-04.6054,10,1,248,False,True,{"FaceCube-1": {"3D Position": "<0.31276 | -0.2039072 | 1.841633>" |"isSubject": "False" |"2D Position": "(1252.5 | 530.5)" } |}
+22-08-04.6054,10,1,248,False,True,{"FaceCube-1": {"3D Position": "<0.31276 | -0.2039072 | 1.841633>" |"isSubject": "False" |"2D Position": "(1252.5 | 530.5)" } |}
+22-08-04.7152,9,1,249,False,True,{"FaceCube-1": {"3D Position": "<0.31276 | -0.2039072 | 1.841633>" |"isSubject": "False" |"2D Position": "(1252.5 | 530.5)" } |}
+22-08-04.7152,9,1,249,False,True,{"FaceCube-1": {"3D Position": "<0.31276 | -0.2039072 | 1.841633>" |"isSubject": "False" |"2D Position": "(1252.5 | 530.5)" } |}
+22-08-04.9027,7,1,250,False,True,{"FaceCube-1": {"3D Position": "<0.3255773 | -0.2136375 | 1.952415>" |"isSubject": "False" |"2D Position": "(1247 | 529)" } |}
+22-08-04.9027,7,1,250,False,True,{"FaceCube-1": {"3D Position": "<0.3255773 | -0.2136375 | 1.952415>" |"isSubject": "False" |"2D Position": "(1247 | 529)" } |}
+22-08-04.9907,8,1,251,False,True,{"FaceCube-1": {"3D Position": "<0.3300764 | -0.2164837 | 1.986593>" |"isSubject": "False" |"2D Position": "(1247 | 528.5)" } |}
+22-08-04.9907,8,1,251,False,True,{"FaceCube-1": {"3D Position": "<0.3300764 | -0.2164837 | 1.986593>" |"isSubject": "False" |"2D Position": "(1247 | 528.5)" } |}
+22-08-05.0942,8,1,252,False,True,{"FaceCube-1": {"3D Position": "<0.3300764 | -0.2164837 | 1.986593>" |"isSubject": "False" |"2D Position": "(1247 | 528.5)" } |}
+22-08-05.0942,8,1,252,False,True,{"FaceCube-1": {"3D Position": "<0.3300764 | -0.2164837 | 1.986593>" |"isSubject": "False" |"2D Position": "(1247 | 528.5)" } |}
+22-08-05.1905,8,1,253,False,True,{"FaceCube-1": {"3D Position": "<0.3300764 | -0.2164837 | 1.986593>" |"isSubject": "False" |"2D Position": "(1247 | 528.5)" } |}
+22-08-05.1905,8,1,253,False,True,{"FaceCube-1": {"3D Position": "<0.3300764 | -0.2164837 | 1.986593>" |"isSubject": "False" |"2D Position": "(1247 | 528.5)" } |}
+22-08-05.4164,7,1,254,False,True,{"FaceCube-1": {"3D Position": "<0.3208586 | -0.2150992 | 1.952703>" |"isSubject": "False" |"2D Position": "(1244 | 531)" } |}
+22-08-05.4164,7,1,254,False,True,{"FaceCube-1": {"3D Position": "<0.3208586 | -0.2150992 | 1.952703>" |"isSubject": "False" |"2D Position": "(1244 | 531)" } |}
+22-08-05.5204,10,1,255,False,True,{"FaceCube-1": {"3D Position": "<0.3192765 | -0.2117941 | 1.935859>" |"isSubject": "False" |"2D Position": "(1244.5 | 530.5)" } |}
+22-08-05.5204,10,1,255,False,True,{"FaceCube-1": {"3D Position": "<0.3192765 | -0.2117941 | 1.935859>" |"isSubject": "False" |"2D Position": "(1244.5 | 530.5)" } |}
+22-08-05.5341,10,1,256,False,True,{"FaceCube-1": {"3D Position": "<0.3192765 | -0.2117941 | 1.935859>" |"isSubject": "False" |"2D Position": "(1244.5 | 530.5)" } |}
+22-08-05.5341,10,1,256,False,True,{"FaceCube-1": {"3D Position": "<0.3192765 | -0.2117941 | 1.935859>" |"isSubject": "False" |"2D Position": "(1244.5 | 530.5)" } |}
+22-08-05.6206,10,1,257,False,True,{"FaceCube-1": {"3D Position": "<0.3192765 | -0.2117941 | 1.935859>" |"isSubject": "False" |"2D Position": "(1244.5 | 530.5)" } |}
+22-08-05.6206,10,1,257,False,True,{"FaceCube-1": {"3D Position": "<0.3192765 | -0.2117941 | 1.935859>" |"isSubject": "False" |"2D Position": "(1244.5 | 530.5)" } |}
+22-08-05.6806,10,1,258,False,True,{"FaceCube-1": {"3D Position": "<0.3192765 | -0.2117941 | 1.935859>" |"isSubject": "False" |"2D Position": "(1244.5 | 530.5)" } |}
+22-08-05.6806,10,1,258,False,True,{"FaceCube-1": {"3D Position": "<0.3192765 | -0.2117941 | 1.935859>" |"isSubject": "False" |"2D Position": "(1244.5 | 530.5)" } |}
+22-08-05.7404,10,1,259,False,True,{"FaceCube-1": {"3D Position": "<0.3214761 | -0.2123227 | 1.952648>" |"isSubject": "False" |"2D Position": "(1247 | 529.5)" } |}
+22-08-05.7404,10,1,259,False,True,{"FaceCube-1": {"3D Position": "<0.3214761 | -0.2123227 | 1.952648>" |"isSubject": "False" |"2D Position": "(1247 | 529.5)" } |}
+22-08-05.9705,8,1,260,False,True,{"FaceCube-1": {"3D Position": "<0.3214761 | -0.2123227 | 1.952648>" |"isSubject": "False" |"2D Position": "(1247 | 529.5)" } |}
+22-08-05.9705,8,1,260,False,True,{"FaceCube-1": {"3D Position": "<0.3214761 | -0.2123227 | 1.952648>" |"isSubject": "False" |"2D Position": "(1247 | 529.5)" } |}
+22-08-06.0303,9,1,261,False,True,{"FaceCube-1": {"3D Position": "<0.33894 | -0.2218004 | 2.02039>" |"isSubject": "False" |"2D Position": "(1250 | 533)" } |}
+22-08-06.0303,9,1,261,False,True,{"FaceCube-1": {"3D Position": "<0.33894 | -0.2218004 | 2.02039>" |"isSubject": "False" |"2D Position": "(1250 | 533)" } |}
+22-08-06.2105,9,1,262,False,True,{"FaceCube-1": {"3D Position": "<0.3193824 | -0.2108474 | 1.935553>" |"isSubject": "False" |"2D Position": "(1246.5 | 533.5)" } |}
+22-08-06.2105,9,1,262,False,True,{"FaceCube-1": {"3D Position": "<0.3193824 | -0.2108474 | 1.935553>" |"isSubject": "False" |"2D Position": "(1246.5 | 533.5)" } |}
+22-08-06.2556,10,1,263,False,True,{"FaceCube-1": {"3D Position": "<0.3159914 | -0.2018891 | 1.871522>" |"isSubject": "False" |"2D Position": "(1254.5 | 531.5)" } |}
+22-08-06.2556,10,1,263,False,True,{"FaceCube-1": {"3D Position": "<0.3159914 | -0.2018891 | 1.871522>" |"isSubject": "False" |"2D Position": "(1254.5 | 531.5)" } |}
+22-08-06.3369,12,1,264,False,True,{"FaceCube-1": {"3D Position": "<0.3159914 | -0.2018891 | 1.871522>" |"isSubject": "False" |"2D Position": "(1254.5 | 531.5)" } |}
+22-08-06.3369,12,1,264,False,True,{"FaceCube-1": {"3D Position": "<0.3159914 | -0.2018891 | 1.871522>" |"isSubject": "False" |"2D Position": "(1254.5 | 531.5)" } |}
+22-08-06.4655,10,1,265,False,True,{"FaceCube-1": {"3D Position": "<0.3222754 | -0.1979115 | 1.88703>" |"isSubject": "False" |"2D Position": "(1260 | 527)" } |}
+22-08-06.4655,10,1,265,False,True,{"FaceCube-1": {"3D Position": "<0.3222754 | -0.1979115 | 1.88703>" |"isSubject": "False" |"2D Position": "(1260 | 527)" } |}
+22-08-06.4924,10,1,266,False,True,{"FaceCube-1": {"3D Position": "<0.3222754 | -0.1979115 | 1.88703>" |"isSubject": "False" |"2D Position": "(1260 | 527)" } |}
+22-08-06.4924,10,1,266,False,True,{"FaceCube-1": {"3D Position": "<0.3222754 | -0.1979115 | 1.88703>" |"isSubject": "False" |"2D Position": "(1260 | 527)" } |}
+22-08-06.7457,10,1,267,False,True,{"FaceCube-1": {"3D Position": "<0.3297713 | -0.2018179 | 1.918207>" |"isSubject": "False" |"2D Position": "(1261 | 529)" } |}
+22-08-06.7457,10,1,267,False,True,{"FaceCube-1": {"3D Position": "<0.3297713 | -0.2018179 | 1.918207>" |"isSubject": "False" |"2D Position": "(1261 | 529)" } |}
+22-08-06.7902,10,1,268,False,True,{"FaceCube-1": {"3D Position": "<0.3297713 | -0.2018179 | 1.918207>" |"isSubject": "False" |"2D Position": "(1261 | 529)" } |}
+22-08-06.7902,10,1,268,False,True,{"FaceCube-1": {"3D Position": "<0.3297713 | -0.2018179 | 1.918207>" |"isSubject": "False" |"2D Position": "(1261 | 529)" } |}
+22-08-06.8356,10,1,269,False,True,{"FaceCube-1": {"3D Position": "<0.3297713 | -0.2018179 | 1.918207>" |"isSubject": "False" |"2D Position": "(1261 | 529)" } |}
+22-08-06.8356,10,1,269,False,True,{"FaceCube-1": {"3D Position": "<0.3297713 | -0.2018179 | 1.918207>" |"isSubject": "False" |"2D Position": "(1261 | 529)" } |}
+22-08-06.9553,10,1,270,False,True,{"FaceCube-1": {"3D Position": "<0.3297713 | -0.2018179 | 1.918207>" |"isSubject": "False" |"2D Position": "(1261 | 529)" } |}
+22-08-06.9553,10,1,270,False,True,{"FaceCube-1": {"3D Position": "<0.3297713 | -0.2018179 | 1.918207>" |"isSubject": "False" |"2D Position": "(1261 | 529)" } |}
+22-08-07.0203,9,1,271,False,True,{"FaceCube-1": {"3D Position": "<0.3297713 | -0.2018179 | 1.918207>" |"isSubject": "False" |"2D Position": "(1261 | 529)" } |}
+22-08-07.0203,9,1,271,False,True,{"FaceCube-1": {"3D Position": "<0.3297713 | -0.2018179 | 1.918207>" |"isSubject": "False" |"2D Position": "(1261 | 529)" } |}
+22-08-07.0806,9,1,272,False,True,{"FaceCube-1": {"3D Position": "<0.3297713 | -0.2018179 | 1.918207>" |"isSubject": "False" |"2D Position": "(1261 | 529)" } |}
+22-08-07.0806,9,1,272,False,True,{"FaceCube-1": {"3D Position": "<0.3297713 | -0.2018179 | 1.918207>" |"isSubject": "False" |"2D Position": "(1261 | 529)" } |}
+22-08-07.2902,8,1,273,False,True,{"FaceCube-1": {"3D Position": "<0.3318884 | -0.1958642 | 1.953288>" |"isSubject": "False" |"2D Position": "(1257 | 519)" } |}
+22-08-07.2902,8,1,273,False,True,{"FaceCube-1": {"3D Position": "<0.3318884 | -0.1958642 | 1.953288>" |"isSubject": "False" |"2D Position": "(1257 | 519)" } |}
+22-08-07.4153,8,1,274,False,True,{"FaceCube-1": {"3D Position": "<0.3318884 | -0.1958642 | 1.953288>" |"isSubject": "False" |"2D Position": "(1257 | 519)" } |}
+22-08-07.4153,8,1,274,False,True,{"FaceCube-1": {"3D Position": "<0.3318884 | -0.1958642 | 1.953288>" |"isSubject": "False" |"2D Position": "(1257 | 519)" } |}
+22-08-07.4905,8,1,275,False,True,{"FaceCube-1": {"3D Position": "<0.3106602 | -0.2004917 | 1.826105>" |"isSubject": "False" |"2D Position": "(1257 | 537)" } |}
+22-08-07.4905,8,1,275,False,True,{"FaceCube-1": {"3D Position": "<0.3106602 | -0.2004917 | 1.826105>" |"isSubject": "False" |"2D Position": "(1257 | 537)" } |}
+22-08-07.5320,11,1,276,False,True,{"FaceCube-1": {"3D Position": "<0.3106602 | -0.2004917 | 1.826105>" |"isSubject": "False" |"2D Position": "(1257 | 537)" } |}
+22-08-07.5320,11,1,276,False,True,{"FaceCube-1": {"3D Position": "<0.3106602 | -0.2004917 | 1.826105>" |"isSubject": "False" |"2D Position": "(1257 | 537)" } |}
+22-08-07.6557,13,1,277,False,True,{"FaceCube-1": {"3D Position": "<0.3116503 | -0.1821665 | 1.813354>" |"isSubject": "False" |"2D Position": "(1260.5 | 521.5)" } |}
+22-08-07.6557,13,1,277,False,True,{"FaceCube-1": {"3D Position": "<0.3116503 | -0.1821665 | 1.813354>" |"isSubject": "False" |"2D Position": "(1260.5 | 521.5)" } |}
+22-08-07.7306,11,1,278,False,True,{"FaceCube-1": {"3D Position": "<0.312663 | -0.2069304 | 1.825015>" |"isSubject": "False" |"2D Position": "(1259 | 541)" } |}
+22-08-07.7306,11,1,278,False,True,{"FaceCube-1": {"3D Position": "<0.312663 | -0.2069304 | 1.825015>" |"isSubject": "False" |"2D Position": "(1259 | 541)" } |}
+22-08-07.7457,11,1,279,False,True,{"FaceCube-1": {"3D Position": "<0.312663 | -0.2069304 | 1.825015>" |"isSubject": "False" |"2D Position": "(1259 | 541)" } |}
+22-08-07.7457,11,1,279,False,True,{"FaceCube-1": {"3D Position": "<0.312663 | -0.2069304 | 1.825015>" |"isSubject": "False" |"2D Position": "(1259 | 541)" } |}
+22-08-07.8209,12,1,280,False,True,{"FaceCube-1": {"3D Position": "<0.312663 | -0.2069304 | 1.825015>" |"isSubject": "False" |"2D Position": "(1259 | 541)" } |}
+22-08-07.8209,12,1,280,False,True,{"FaceCube-1": {"3D Position": "<0.312663 | -0.2069304 | 1.825015>" |"isSubject": "False" |"2D Position": "(1259 | 541)" } |}
+22-08-07.8606,15,1,281,False,True,{"FaceCube-1": {"3D Position": "<0.312663 | -0.2069304 | 1.825015>" |"isSubject": "False" |"2D Position": "(1259 | 541)" } |}
+22-08-07.8606,15,1,281,False,True,{"FaceCube-1": {"3D Position": "<0.312663 | -0.2069304 | 1.825015>" |"isSubject": "False" |"2D Position": "(1259 | 541)" } |}
+22-08-07.9006,15,1,282,False,True,{"FaceCube-1": {"3D Position": "<0.312663 | -0.2069304 | 1.825015>" |"isSubject": "False" |"2D Position": "(1259 | 541)" } |}
+22-08-07.9006,15,1,282,False,True,{"FaceCube-1": {"3D Position": "<0.312663 | -0.2069304 | 1.825015>" |"isSubject": "False" |"2D Position": "(1259 | 541)" } |}
+22-08-07.9340,14,1,283,False,True,{"FaceCube-1": {"3D Position": "<0.3172374 | -0.2152177 | 1.854095>" |"isSubject": "False" |"2D Position": "(1258 | 544.5)" } |}
+22-08-07.9340,14,1,283,False,True,{"FaceCube-1": {"3D Position": "<0.3172374 | -0.2152177 | 1.854095>" |"isSubject": "False" |"2D Position": "(1258 | 544.5)" } |}
+22-08-08.0857,15,1,284,False,True,{"FaceCube-1": {"3D Position": "<0.324205 | -0.2196108 | 1.884327>" |"isSubject": "False" |"2D Position": "(1259 | 544)" } |}
+22-08-08.0857,15,1,284,False,True,{"FaceCube-1": {"3D Position": "<0.324205 | -0.2196108 | 1.884327>" |"isSubject": "False" |"2D Position": "(1259 | 544)" } |}
+22-08-08.1054,15,1,285,False,True,{"FaceCube-1": {"3D Position": "<0.324205 | -0.2196108 | 1.884327>" |"isSubject": "False" |"2D Position": "(1259 | 544)" } |}
+22-08-08.1054,15,1,285,False,True,{"FaceCube-1": {"3D Position": "<0.324205 | -0.2196108 | 1.884327>" |"isSubject": "False" |"2D Position": "(1259 | 544)" } |}
+22-08-08.1706,13,1,286,False,True,{"FaceCube-1": {"3D Position": "<0.3034444 | -0.209405 | 1.796034>" |"isSubject": "False" |"2D Position": "(1256 | 547)" } |}
+22-08-08.1706,13,1,286,False,True,{"FaceCube-1": {"3D Position": "<0.3034444 | -0.209405 | 1.796034>" |"isSubject": "False" |"2D Position": "(1256 | 547)" } |}
+22-08-08.2306,14,1,287,False,True,{"FaceCube-1": {"3D Position": "<0.3034444 | -0.209405 | 1.796034>" |"isSubject": "False" |"2D Position": "(1256 | 547)" } |}
+22-08-08.2306,14,1,287,False,True,{"FaceCube-1": {"3D Position": "<0.3034444 | -0.209405 | 1.796034>" |"isSubject": "False" |"2D Position": "(1256 | 547)" } |}
+22-08-08.3457,15,1,288,False,True,{"FaceCube-1": {"3D Position": "<0.3034444 | -0.209405 | 1.796034>" |"isSubject": "False" |"2D Position": "(1256 | 547)" } |}
+22-08-08.3457,15,1,288,False,True,{"FaceCube-1": {"3D Position": "<0.3034444 | -0.209405 | 1.796034>" |"isSubject": "False" |"2D Position": "(1256 | 547)" } |}
+22-08-08.4116,14,1,289,False,True,{"FaceCube-1": {"3D Position": "<0.3028085 | -0.2132039 | 1.8256>" |"isSubject": "False" |"2D Position": "(1250 | 547)" } |}
+22-08-08.4116,14,1,289,False,True,{"FaceCube-1": {"3D Position": "<0.3028085 | -0.2132039 | 1.8256>" |"isSubject": "False" |"2D Position": "(1250 | 547)" } |}
+22-08-08.4396,14,1,290,False,True,{"FaceCube-1": {"3D Position": "<0.3028085 | -0.2132039 | 1.8256>" |"isSubject": "False" |"2D Position": "(1250 | 547)" } |}
+22-08-08.4396,14,1,290,False,True,{"FaceCube-1": {"3D Position": "<0.3028085 | -0.2132039 | 1.8256>" |"isSubject": "False" |"2D Position": "(1250 | 547)" } |}
+22-08-08.5567,18,1,291,False,True,{"FaceCube-1": {"3D Position": "<0.3186268 | -0.2276008 | 1.916953>" |"isSubject": "False" |"2D Position": "(1249 | 548)" } |}
+22-08-08.5567,18,1,291,False,True,{"FaceCube-1": {"3D Position": "<0.3186268 | -0.2276008 | 1.916953>" |"isSubject": "False" |"2D Position": "(1249 | 548)" } |}
+22-08-08.5886,18,1,292,False,True,{"FaceCube-1": {"3D Position": "<0.3186268 | -0.2276008 | 1.916953>" |"isSubject": "False" |"2D Position": "(1249 | 548)" } |}
+22-08-08.5886,18,1,292,False,True,{"FaceCube-1": {"3D Position": "<0.3186268 | -0.2276008 | 1.916953>" |"isSubject": "False" |"2D Position": "(1249 | 548)" } |}
+22-08-08.6429,15,1,293,False,True,{"FaceCube-1": {"3D Position": "<0.302904 | -0.2244069 | 1.85472>" |"isSubject": "False" |"2D Position": "(1245 | 553)" } |}
+22-08-08.6429,15,1,293,False,True,{"FaceCube-1": {"3D Position": "<0.302904 | -0.2244069 | 1.85472>" |"isSubject": "False" |"2D Position": "(1245 | 553)" } |}
+22-08-08.7027,15,1,294,False,True,{"FaceCube-1": {"3D Position": "<0.302904 | -0.2244069 | 1.85472>" |"isSubject": "False" |"2D Position": "(1245 | 553)" } |}
+22-08-08.7027,15,1,294,False,True,{"FaceCube-1": {"3D Position": "<0.302904 | -0.2244069 | 1.85472>" |"isSubject": "False" |"2D Position": "(1245 | 553)" } |}
+22-08-08.7326,15,1,295,False,True,{"FaceCube-1": {"3D Position": "<0.302904 | -0.2244069 | 1.85472>" |"isSubject": "False" |"2D Position": "(1245 | 553)" } |}
+22-08-08.7326,15,1,295,False,True,{"FaceCube-1": {"3D Position": "<0.302904 | -0.2244069 | 1.85472>" |"isSubject": "False" |"2D Position": "(1245 | 553)" } |}
+22-08-08.7877,15,1,296,False,True,{"FaceCube-1": {"3D Position": "<0.3241782 | -0.2365221 | 1.948678>" |"isSubject": "False" |"2D Position": "(1248 | 553)" } |}
+22-08-08.7877,15,1,296,False,True,{"FaceCube-1": {"3D Position": "<0.3241782 | -0.2365221 | 1.948678>" |"isSubject": "False" |"2D Position": "(1248 | 553)" } |}
+22-08-08.9129,15,1,297,False,True,{"FaceCube-1": {"3D Position": "<0.293289 | -0.2127449 | 1.782542>" |"isSubject": "False" |"2D Position": "(1247.5 | 551.5)" } |}
+22-08-08.9129,15,1,297,False,True,{"FaceCube-1": {"3D Position": "<0.293289 | -0.2127449 | 1.782542>" |"isSubject": "False" |"2D Position": "(1247.5 | 551.5)" } |}
+22-08-08.9767,15,1,298,False,True,{"FaceCube-1": {"3D Position": "<0.293289 | -0.2127449 | 1.782542>" |"isSubject": "False" |"2D Position": "(1247.5 | 551.5)" } |}
+22-08-08.9767,15,1,298,False,True,{"FaceCube-1": {"3D Position": "<0.293289 | -0.2127449 | 1.782542>" |"isSubject": "False" |"2D Position": "(1247.5 | 551.5)" } |}
+22-08-09.0327,13,1,299,False,True,{"FaceCube-1": {"3D Position": "<0.2957761 | -0.2067875 | 1.754048>" |"isSubject": "False" |"2D Position": "(1252.5 | 551.5)" } |}
+22-08-09.0327,13,1,299,False,True,{"FaceCube-1": {"3D Position": "<0.2957761 | -0.2067875 | 1.754048>" |"isSubject": "False" |"2D Position": "(1252.5 | 551.5)" } |}
+22-08-09.1034,13,1,300,False,True,{"FaceCube-1": {"3D Position": "<0.3098634 | -0.216093 | 1.838863>" |"isSubject": "False" |"2D Position": "(1251.5 | 549.5)" } |}
+22-08-09.1034,13,1,300,False,True,{"FaceCube-1": {"3D Position": "<0.3098634 | -0.216093 | 1.838863>" |"isSubject": "False" |"2D Position": "(1251.5 | 549.5)" } |}
+22-08-09.1939,13,1,301,False,True,{"FaceCube-1": {"3D Position": "<0.3044547 | -0.2088112 | 1.780797>" |"isSubject": "False" |"2D Position": "(1255.5 | 550.5)" } |}
+22-08-09.1939,13,1,301,False,True,{"FaceCube-1": {"3D Position": "<0.3044547 | -0.2088112 | 1.780797>" |"isSubject": "False" |"2D Position": "(1255.5 | 550.5)" } |}
+22-08-09.3069,13,1,302,False,True,{"FaceCube-1": {"3D Position": "<0.3013535 | -0.2057609 | 1.767316>" |"isSubject": "False" |"2D Position": "(1255 | 550)" } |}
+22-08-09.3069,13,1,302,False,True,{"FaceCube-1": {"3D Position": "<0.3013535 | -0.2057609 | 1.767316>" |"isSubject": "False" |"2D Position": "(1255 | 550)" } |}
+22-08-09.3774,19,1,303,False,True,{"FaceCube-1": {"3D Position": "<0.3249047 | -0.2275351 | 1.915328>" |"isSubject": "False" |"2D Position": "(1252 | 552)" } |}
+22-08-09.3774,19,1,303,False,True,{"FaceCube-1": {"3D Position": "<0.3249047 | -0.2275351 | 1.915328>" |"isSubject": "False" |"2D Position": "(1252 | 552)" } |}
+22-08-09.3825,19,1,304,False,True,{"FaceCube-1": {"3D Position": "<0.3249047 | -0.2275351 | 1.915328>" |"isSubject": "False" |"2D Position": "(1252 | 552)" } |}
+22-08-09.3825,19,1,304,False,True,{"FaceCube-1": {"3D Position": "<0.3249047 | -0.2275351 | 1.915328>" |"isSubject": "False" |"2D Position": "(1252 | 552)" } |}
+22-08-09.4141,19,1,305,False,True,{"FaceCube-1": {"3D Position": "<0.3249047 | -0.2275351 | 1.915328>" |"isSubject": "False" |"2D Position": "(1252 | 552)" } |}
+22-08-09.4141,19,1,305,False,True,{"FaceCube-1": {"3D Position": "<0.3249047 | -0.2275351 | 1.915328>" |"isSubject": "False" |"2D Position": "(1252 | 552)" } |}
+22-08-09.5002,19,1,306,False,True,{"FaceCube-1": {"3D Position": "<0.3249047 | -0.2275351 | 1.915328>" |"isSubject": "False" |"2D Position": "(1252 | 552)" } |}
+22-08-09.5002,19,1,306,False,True,{"FaceCube-1": {"3D Position": "<0.3249047 | -0.2275351 | 1.915328>" |"isSubject": "False" |"2D Position": "(1252 | 552)" } |}
+22-08-09.6055,16,1,307,False,True,{"FaceCube-1": {"3D Position": "<0.3249047 | -0.2275351 | 1.915328>" |"isSubject": "False" |"2D Position": "(1252 | 552)" } |}
+22-08-09.6055,16,1,307,False,True,{"FaceCube-1": {"3D Position": "<0.3249047 | -0.2275351 | 1.915328>" |"isSubject": "False" |"2D Position": "(1252 | 552)" } |}
+22-08-09.6450,16,1,308,False,True,{"FaceCube-1": {"3D Position": "<0.3249047 | -0.2275351 | 1.915328>" |"isSubject": "False" |"2D Position": "(1252 | 552)" } |}
+22-08-09.6450,16,1,308,False,True,{"FaceCube-1": {"3D Position": "<0.3249047 | -0.2275351 | 1.915328>" |"isSubject": "False" |"2D Position": "(1252 | 552)" } |}
+22-08-09.7100,15,1,309,False,True,{"FaceCube-1": {"3D Position": "<0.2993926 | -0.2060125 | 1.79686>" |"isSubject": "False" |"2D Position": "(1250 | 547)" } |}
+22-08-09.7100,15,1,309,False,True,{"FaceCube-1": {"3D Position": "<0.2993926 | -0.2060125 | 1.79686>" |"isSubject": "False" |"2D Position": "(1250 | 547)" } |}
+22-08-09.8322,17,1,310,False,True,{"FaceCube-1": {"3D Position": "<0.2993926 | -0.2060125 | 1.79686>" |"isSubject": "False" |"2D Position": "(1250 | 547)" } |}
+22-08-09.8322,17,1,310,False,True,{"FaceCube-1": {"3D Position": "<0.2993926 | -0.2060125 | 1.79686>" |"isSubject": "False" |"2D Position": "(1250 | 547)" } |}
+22-08-09.8807,17,1,311,False,True,{"FaceCube-1": {"3D Position": "<0.2993926 | -0.2060125 | 1.79686>" |"isSubject": "False" |"2D Position": "(1250 | 547)" } |}
+22-08-09.8807,17,1,311,False,True,{"FaceCube-1": {"3D Position": "<0.2993926 | -0.2060125 | 1.79686>" |"isSubject": "False" |"2D Position": "(1250 | 547)" } |}
+22-08-09.9257,13,1,312,False,True,{"FaceCube-1": {"3D Position": "<0.3053912 | -0.2084645 | 1.81068>" |"isSubject": "False" |"2D Position": "(1252.5 | 545.5)" } |}
+22-08-09.9257,13,1,312,False,True,{"FaceCube-1": {"3D Position": "<0.3053912 | -0.2084645 | 1.81068>" |"isSubject": "False" |"2D Position": "(1252.5 | 545.5)" } |}
+22-08-09.9609,13,1,313,False,True,{"FaceCube-1": {"3D Position": "<0.3053912 | -0.2084645 | 1.81068>" |"isSubject": "False" |"2D Position": "(1252.5 | 545.5)" } |}
+22-08-09.9609,13,1,313,False,True,{"FaceCube-1": {"3D Position": "<0.3053912 | -0.2084645 | 1.81068>" |"isSubject": "False" |"2D Position": "(1252.5 | 545.5)" } |}
+22-08-10.0355,13,1,314,False,True,{"FaceCube-1": {"3D Position": "<0.3246794 | -0.2198441 | 1.917039>" |"isSubject": "False" |"2D Position": "(1254 | 542)" } |}
+22-08-10.0355,13,1,314,False,True,{"FaceCube-1": {"3D Position": "<0.3246794 | -0.2198441 | 1.917039>" |"isSubject": "False" |"2D Position": "(1254 | 542)" } |}
+22-08-10.1005,13,1,315,False,True,{"FaceCube-1": {"3D Position": "<0.3246794 | -0.2198441 | 1.917039>" |"isSubject": "False" |"2D Position": "(1254 | 542)" } |}
+22-08-10.1005,13,1,315,False,True,{"FaceCube-1": {"3D Position": "<0.3246794 | -0.2198441 | 1.917039>" |"isSubject": "False" |"2D Position": "(1254 | 542)" } |}
+22-08-10.1906,13,1,316,False,True,{"FaceCube-1": {"3D Position": "<0.3417376 | -0.2377023 | 2.017926>" |"isSubject": "False" |"2D Position": "(1252 | 547)" } |}
+22-08-10.1906,13,1,316,False,True,{"FaceCube-1": {"3D Position": "<0.3417376 | -0.2377023 | 2.017926>" |"isSubject": "False" |"2D Position": "(1252 | 547)" } |}
+22-08-10.2403,15,1,317,False,True,{"FaceCube-1": {"3D Position": "<0.3170888 | -0.22016 | 1.885003>" |"isSubject": "False" |"2D Position": "(1250 | 547.5)" } |}
+22-08-10.2403,15,1,317,False,True,{"FaceCube-1": {"3D Position": "<0.3170888 | -0.22016 | 1.885003>" |"isSubject": "False" |"2D Position": "(1250 | 547.5)" } |}
+22-08-10.2504,18,1,318,False,True,{"FaceCube-1": {"3D Position": "<0.3170888 | -0.22016 | 1.885003>" |"isSubject": "False" |"2D Position": "(1250 | 547.5)" } |}
+22-08-10.2504,18,1,318,False,True,{"FaceCube-1": {"3D Position": "<0.3170888 | -0.22016 | 1.885003>" |"isSubject": "False" |"2D Position": "(1250 | 547.5)" } |}
+22-08-10.3348,19,1,319,False,True,{"FaceCube-1": {"3D Position": "<0.3170888 | -0.22016 | 1.885003>" |"isSubject": "False" |"2D Position": "(1250 | 547.5)" } |}
+22-08-10.3348,19,1,319,False,True,{"FaceCube-1": {"3D Position": "<0.3170888 | -0.22016 | 1.885003>" |"isSubject": "False" |"2D Position": "(1250 | 547.5)" } |}
+22-08-10.4231,16,1,320,False,True,{"FaceCube-1": {"3D Position": "<0.3435757 | -0.2427678 | 2.03603>" |"isSubject": "False" |"2D Position": "(1250.5 | 548)" } |}
+22-08-10.4231,16,1,320,False,True,{"FaceCube-1": {"3D Position": "<0.3435757 | -0.2427678 | 2.03603>" |"isSubject": "False" |"2D Position": "(1250.5 | 548)" } |}
+22-08-10.5005,16,1,321,False,True,{"FaceCube-1": {"3D Position": "<0.3250619 | -0.2314931 | 1.932274>" |"isSubject": "False" |"2D Position": "(1250.5 | 550.5)" } |}
+22-08-10.5005,16,1,321,False,True,{"FaceCube-1": {"3D Position": "<0.3250619 | -0.2314931 | 1.932274>" |"isSubject": "False" |"2D Position": "(1250.5 | 550.5)" } |}
+22-08-10.6206,15,1,322,False,True,{"FaceCube-1": {"3D Position": "<0.3250619 | -0.2314931 | 1.932274>" |"isSubject": "False" |"2D Position": "(1250.5 | 550.5)" } |}
+22-08-10.6206,15,1,322,False,True,{"FaceCube-1": {"3D Position": "<0.3250619 | -0.2314931 | 1.932274>" |"isSubject": "False" |"2D Position": "(1250.5 | 550.5)" } |}
+22-08-10.6554,15,1,323,False,True,{"FaceCube-1": {"3D Position": "<0.3250619 | -0.2314931 | 1.932274>" |"isSubject": "False" |"2D Position": "(1250.5 | 550.5)" } |}
+22-08-10.6554,15,1,323,False,True,{"FaceCube-1": {"3D Position": "<0.3250619 | -0.2314931 | 1.932274>" |"isSubject": "False" |"2D Position": "(1250.5 | 550.5)" } |}
+22-08-10.6851,12,1,324,False,True,{"FaceCube-1": {"3D Position": "<0.3372361 | -0.243396 | 1.999524>" |"isSubject": "False" |"2D Position": "(1250.5 | 552.5)" } |}
+22-08-10.6851,12,1,324,False,True,{"FaceCube-1": {"3D Position": "<0.3372361 | -0.243396 | 1.999524>" |"isSubject": "False" |"2D Position": "(1250.5 | 552.5)" } |}
+22-08-10.7472,13,1,325,False,True,{"FaceCube-1": {"3D Position": "<0.3372361 | -0.243396 | 1.999524>" |"isSubject": "False" |"2D Position": "(1250.5 | 552.5)" } |}
+22-08-10.7472,13,1,325,False,True,{"FaceCube-1": {"3D Position": "<0.3372361 | -0.243396 | 1.999524>" |"isSubject": "False" |"2D Position": "(1250.5 | 552.5)" } |}
+22-08-10.8354,13,1,326,False,True,{"FaceCube-1": {"3D Position": "<0.3372361 | -0.243396 | 1.999524>" |"isSubject": "False" |"2D Position": "(1250.5 | 552.5)" } |}
+22-08-10.8354,13,1,326,False,True,{"FaceCube-1": {"3D Position": "<0.3372361 | -0.243396 | 1.999524>" |"isSubject": "False" |"2D Position": "(1250.5 | 552.5)" } |}
+22-08-10.9057,13,1,327,False,True,{"FaceCube-1": {"3D Position": "<0.3372361 | -0.243396 | 1.999524>" |"isSubject": "False" |"2D Position": "(1250.5 | 552.5)" } |}
+22-08-10.9057,13,1,327,False,True,{"FaceCube-1": {"3D Position": "<0.3372361 | -0.243396 | 1.999524>" |"isSubject": "False" |"2D Position": "(1250.5 | 552.5)" } |}
+22-08-11.0008,13,1,328,False,True,{"FaceCube-1": {"3D Position": "<0.3349635 | -0.2391957 | 1.946638>" |"isSubject": "False" |"2D Position": "(1255 | 555.5)" } |}
+22-08-11.0008,13,1,328,False,True,{"FaceCube-1": {"3D Position": "<0.3349635 | -0.2391957 | 1.946638>" |"isSubject": "False" |"2D Position": "(1255 | 555.5)" } |}
+22-08-11.0537,13,1,329,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-11.0537,13,1,329,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-11.1339,12,1,330,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-11.1339,12,1,330,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-11.2195,12,1,331,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-11.2195,12,1,331,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-11.3207,15,1,332,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-11.3207,15,1,332,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-11.3704,17,1,333,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-11.3704,17,1,333,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-11.4404,20,1,334,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-11.4404,20,1,334,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-11.5437,17,1,335,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-11.5437,17,1,335,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-11.6005,17,1,336,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-11.6005,17,1,336,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-11.6571,13,1,337,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-11.6571,13,1,337,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-11.7546,13,1,338,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-11.7546,13,1,338,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-11.8316,12,1,339,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-11.8316,12,1,339,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-11.8705,13,1,340,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-11.8705,13,1,340,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-11.9867,14,1,341,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-11.9867,14,1,341,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-12.0181,14,1,342,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-12.0181,14,1,342,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-12.0506,12,1,343,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-12.0506,12,1,343,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-12.2102,18,1,344,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-12.2102,18,1,344,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-12.2855,17,1,345,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-12.2855,17,1,345,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-12.3354,17,1,346,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-12.3354,17,1,346,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-12.3805,14,1,347,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-12.3805,14,1,347,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-12.4130,14,1,348,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-12.4130,14,1,348,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-12.4307,14,1,349,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-12.4307,14,1,349,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-12.5033,15,1,350,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-12.5033,15,1,350,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-12.6005,15,1,351,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-12.6005,15,1,351,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-12.6304,15,1,352,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-12.6304,15,1,352,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-12.6456,15,1,353,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-12.6456,15,1,353,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-12.6729,15,1,354,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-12.6729,15,1,354,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-12.6856,18,1,355,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-12.6856,18,1,355,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-12.7655,23,1,356,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-12.7655,23,1,356,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-12.8156,23,1,357,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-12.8156,23,1,357,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-12.8406,18,1,358,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-12.8406,18,1,358,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-12.8854,22,1,359,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-12.8854,22,1,359,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-12.9007,22,1,360,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-12.9007,22,1,360,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-12.9508,22,1,361,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-12.9508,22,1,361,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-12.9903,25,1,362,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-12.9903,25,1,362,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-13.0657,29,1,363,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-13.0657,29,1,363,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-13.1704,20,1,364,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-13.1704,20,1,364,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-13.2154,18,1,365,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-13.2154,18,1,365,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-13.2419,18,1,366,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-13.2419,18,1,366,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-13.3817,20,1,367,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-13.3817,20,1,367,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-13.4106,20,1,368,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-13.4106,20,1,368,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-13.4558,15,1,369,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-13.4558,15,1,369,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-13.5032,15,1,370,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-13.5032,15,1,370,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-13.5607,20,1,371,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-13.5607,20,1,371,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-13.6008,25,1,372,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-13.6008,25,1,372,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-13.6154,25,1,373,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-13.6154,25,1,373,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-13.6824,24,1,374,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-13.6824,24,1,374,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-13.7139,24,1,375,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-13.7139,24,1,375,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-13.7694,19,1,376,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-13.7694,19,1,376,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-13.8757,18,1,377,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-13.8757,18,1,377,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-13.9178,18,1,378,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-13.9178,18,1,378,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-13.9492,14,1,379,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-13.9492,14,1,379,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-13.9960,16,1,380,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-13.9960,16,1,380,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-14.0359,16,1,381,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-14.0359,16,1,381,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-14.2235,17,1,382,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-14.2235,17,1,382,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-14.2854,12,1,383,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-14.2854,12,1,383,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-14.3306,14,1,384,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-14.3306,14,1,384,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-14.4022,17,1,385,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-14.4022,17,1,385,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-14.4738,15,1,386,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-14.4738,15,1,386,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-14.5007,15,1,387,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-14.5007,15,1,387,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-14.6106,17,1,388,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-14.6106,17,1,388,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-14.6607,17,1,389,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-14.6607,17,1,389,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-14.6891,13,1,390,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-14.6891,13,1,390,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-14.8455,19,1,391,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-14.8455,19,1,391,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-14.8754,19,1,392,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-14.8754,19,1,392,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-14.9034,18,1,393,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-14.9034,18,1,393,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-14.9405,18,1,394,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-14.9405,18,1,394,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-14.9754,17,1,395,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-14.9754,17,1,395,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-15.0856,17,1,396,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-15.0856,17,1,396,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-15.1205,17,1,397,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-15.1205,17,1,397,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-15.1654,14,1,398,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-15.1654,14,1,398,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-15.2332,14,1,399,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-15.2332,14,1,399,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-15.3039,14,1,400,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-15.3039,14,1,400,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-15.4028,14,1,401,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-15.4028,14,1,401,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-15.5017,14,1,402,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-15.5017,14,1,402,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-15.5627,15,1,403,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-15.5627,15,1,403,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-15.7533,14,1,404,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-15.7533,14,1,404,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-15.8038,14,1,405,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-15.8038,14,1,405,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-15.8518,14,1,406,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-15.8518,14,1,406,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-15.8807,14,1,407,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-15.8807,14,1,407,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-15.9118,11,1,408,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-15.9118,11,1,408,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-15.9783,12,1,409,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-15.9783,12,1,409,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-16.0840,14,1,410,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-16.0840,14,1,410,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-16.1727,14,1,411,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-16.1727,14,1,411,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-16.2263,14,1,412,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-16.2263,14,1,412,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-16.2691,14,1,413,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-16.2691,14,1,413,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-16.2952,13,1,414,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-16.2952,13,1,414,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-16.4577,17,1,415,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-16.4577,17,1,415,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-16.5133,17,1,416,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-16.5133,17,1,416,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-16.5295,17,1,417,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-16.5295,17,1,417,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-16.5728,13,1,418,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-16.5728,13,1,418,False,True,{"FaceCube-1": {"3D Position": "<0.3450835 | -0.2458957 | 2.01628>" |"isSubject": "False" |"2D Position": "(1253 | 553)" } |}
+22-08-16.7045,16,0,420,False,True,{}
+22-08-16.7045,16,0,420,False,True,{}
+22-08-16.7867,16,0,421,False,True,{}
+22-08-16.7867,16,0,421,False,True,{}
+22-08-16.8156,16,0,422,False,True,{}
+22-08-16.8156,16,0,422,False,True,{}
+22-08-16.9005,18,0,423,False,True,{}
+22-08-16.9005,18,0,423,False,True,{}
+22-08-16.9396,21,0,424,False,True,{}
+22-08-16.9396,21,0,424,False,True,{}
+22-08-17.0006,22,0,425,False,True,{}
+22-08-17.0006,22,0,425,False,True,{}
+22-08-17.0457,22,0,426,False,True,{}
+22-08-17.0457,22,0,426,False,True,{}
+22-08-17.0966,20,0,427,False,True,{}
+22-08-17.0966,20,0,427,False,True,{}
+22-08-17.1317,20,0,428,False,True,{}
+22-08-17.1317,20,0,428,False,True,{}
+22-08-17.1604,20,0,429,False,True,{}
+22-08-17.1604,20,0,429,False,True,{}
+22-08-17.1907,16,0,430,False,True,{}
+22-08-17.1907,16,0,430,False,True,{}
+22-08-17.2643,16,0,431,False,True,{}
+22-08-17.2643,16,0,431,False,True,{}
+22-08-17.3058,16,0,432,False,True,{}
+22-08-17.3058,16,0,432,False,True,{}
+22-08-17.4654,19,0,433,False,True,{}
+22-08-17.4654,19,0,433,False,True,{}
+22-08-17.5054,19,0,434,False,True,{}
+22-08-17.5054,19,0,434,False,True,{}
+22-08-17.5387,16,0,435,False,True,{}
+22-08-17.5387,16,0,435,False,True,{}
+22-08-17.5606,16,0,436,False,True,{}
+22-08-17.5606,16,0,436,False,True,{}
+22-08-17.6309,19,0,437,False,False,{}
+22-08-17.6309,19,0,437,False,False,{}
+22-08-17.7070,18,0,438,False,False,{}
+22-08-17.7070,18,0,438,False,False,{}
+22-08-17.7754,18,0,439,False,False,{}
+22-08-17.7754,18,0,439,False,False,{}
+22-08-17.8305,14,0,440,False,False,{}
+22-08-17.8305,14,0,440,False,False,{}
+22-08-17.9005,13,0,441,False,False,{}
+22-08-17.9005,13,0,441,False,False,{}
+22-08-18.0206,17,0,442,False,False,{}
+22-08-18.0206,17,0,442,False,False,{}
+22-08-18.0708,17,0,443,False,False,{}
+22-08-18.0708,17,0,443,False,False,{}
+22-08-18.0754,17,0,444,False,False,{}
+22-08-18.0754,17,0,444,False,False,{}
+22-08-18.1219,18,0,445,False,False,{}
+22-08-18.1219,18,0,445,False,False,{}
+22-08-18.1955,19,0,446,False,False,{}
+22-08-18.1955,19,0,446,False,False,{}
+22-08-18.2856,17,0,447,False,False,{}
+22-08-18.2856,17,0,447,False,False,{}
+22-08-18.4007,15,0,448,False,False,{}
+22-08-18.4007,15,0,448,False,False,{}
+22-08-18.4204,15,0,449,False,False,{}
+22-08-18.4204,15,0,449,False,False,{}
+22-08-18.4495,13,0,450,False,False,{}
+22-08-18.4495,13,0,450,False,False,{}
+22-08-18.4904,17,0,451,False,False,{}
+22-08-18.4904,17,0,451,False,False,{}
+22-08-18.5031,20,0,452,False,False,{}
+22-08-18.5031,20,0,452,False,False,{}
+22-08-18.5107,20,0,453,False,False,{}
+22-08-18.5107,20,0,453,False,False,{}
+22-08-18.6374,21,0,454,False,False,{}
+22-08-18.6374,21,0,454,False,False,{}
+22-08-18.7457,18,0,455,False,False,{}
+22-08-18.7457,18,0,455,False,False,{}
+22-08-18.7908,16,0,456,False,False,{}
+22-08-18.7908,16,0,456,False,False,{}
+22-08-18.8156,16,0,457,False,False,{}
+22-08-18.8156,16,0,457,False,False,{}
+22-08-18.9355,19,0,458,False,False,{}
+22-08-18.9355,19,0,458,False,False,{}
+22-08-19.0029,17,0,459,False,False,{}
+22-08-19.0029,17,0,459,False,False,{}
+22-08-19.0423,17,0,460,False,False,{}
+22-08-19.0423,17,0,460,False,False,{}
+22-08-19.0738,19,0,461,False,False,{}
+22-08-19.0738,19,0,461,False,False,{}
+22-08-19.1007,26,0,462,False,False,{}
+22-08-19.1007,26,0,462,False,False,{}
+22-08-19.1265,26,0,463,False,False,{}
+22-08-19.1265,26,0,463,False,False,{}
+22-08-19.2104,24,0,464,False,False,{}
+22-08-19.2104,24,0,464,False,False,{}
+22-08-19.3206,20,0,465,False,False,{}
+22-08-19.3206,20,0,465,False,False,{}
+22-08-19.3458,20,0,466,False,False,{}
+22-08-19.3458,20,0,466,False,False,{}
+22-08-19.3732,15,0,467,False,False,{}
+22-08-19.3732,15,0,467,False,False,{}
+22-08-19.4041,15,0,468,False,False,{}
+22-08-19.4041,15,0,468,False,False,{}
+22-08-19.4755,15,0,469,False,False,{}
+22-08-19.4755,15,0,469,False,False,{}
+22-08-19.5736,13,0,470,False,False,{}
+22-08-19.5736,13,0,470,False,False,{}
+22-08-19.8306,10,0,471,False,False,{}
+22-08-19.8306,10,0,471,False,False,{}
