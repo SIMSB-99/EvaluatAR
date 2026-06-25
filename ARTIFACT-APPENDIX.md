@@ -4,7 +4,7 @@ Paper title: **EvaluatAR: A Cross-Device Evaluation Framework for Rapid Prototyp
 Requested Badge(s):
   - [x] **Available**
   - [x] **Functional**
-  - [] **Reproduced**
+  - **Reproduced**
 
 ## Description (Required for all badges)
 Title= EvaluatAR: A Cross-Device Evaluation Framework for Rapid Prototyping of Bystander PETs in AR
