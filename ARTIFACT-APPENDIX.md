@@ -4,7 +4,7 @@ Paper title: **EvaluatAR: A Cross-Device Evaluation Framework for Rapid Prototyp
 Requested Badge(s):
   - [x] **Available**
   - [x] **Functional**
-  - [x] **Reproduced**
+  - [] **Reproduced**
 
 ## Description (Required for all badges)
 Title= EvaluatAR: A Cross-Device Evaluation Framework for Rapid Prototyping of Bystander PETs in AR
@@ -13,7 +13,7 @@ Year= 2026
 
 Description: This artifact accompanies our paper, which presents EvaluatAR, a cross-device framework for early-stage evaluation and rapid prototyping of visual bystander privacy-enhancing technologies (PETs) for Augmented Reality (AR) headsets. The core artifact is a modular Unity/C# implementation, `EvaluatAR.cs`, that provides data-collection and replay hooks for integrating Unity-based PETs with target AR headsets. EvaluatAR supports elapsed time-based synchronized replay of PET input streams and logs PET outputs and performance measurements during replay, enabling controlled comparison across devices and PET configurations.
 
-The artifact also includes two reference PET instantiations used in the paper: a BystandAR-based explicit PET and a Cardea-inspired implicit PET. These implementations demonstrate how EvaluatAR can be applied across different PET designs and across the AR headsets evaluated in the paper: Magic Leap 2, HoloLens 2, and Meta Quest 3. As described in the paper, the Cardea-inspired PET was evaluated on Magic Leap 2 and Meta Quest 3, but not on HoloLens 2. **NOTE: AR HEADSETS ARE NEEDED TO DEPLOY AND RUN THE DATA COLLECTION PART OF THIS ARTIFACT.**
+**NOTE: AR HEADSETS ARE NEEDED TO DEPLOY AND RUN THE DATA COLLECTION PART OF THIS ARTIFACT.**. The artifact also includes two reference PET instantiations used in the paper: a BystandAR-based explicit PET and a Cardea-inspired implicit PET. These implementations demonstrate how EvaluatAR can be applied across different PET designs and across the AR headsets evaluated in the paper: Magic Leap 2, HoloLens 2, and Meta Quest 3. As described in the paper, the Cardea-inspired PET was evaluated on Magic Leap 2 and Meta Quest 3, but not on HoloLens 2.
 
 Finally, the artifact includes the analysis notebooks used to process the data collected through EvaluatAR and generate the quantitative results reported in the paper.
 
@@ -21,6 +21,8 @@ Finally, the artifact includes the analysis notebooks used to process the data c
 This artifact does not contain malware, exploits, vulnerable services, or code that intentionally disables operating-system or network security mechanisms. Running the code within the provided codebase does not require elevated privileges.
 
 The Unity components in this artifact are designed for AR headset-based PET evaluation and may access camera, pose, and other sensor streams when deployed on physical AR headsets. These streams can capture people, bystanders, and private environments. Researchers who reuse the framework to collect new data should therefore do so only in controlled settings, obtain appropriate consent from participants and any recorded bystanders, and follow their institution’s ethical review/IRB requirements. As stated within the Ethical Considerations section of the paper, we do not redistrubute the visual stimuli used in our experiments or framework generated logs to avoid risksing the privacy and personally identifiable information of the recorded individuals. 
+
+It is important to note that the Unity version (2022.3.12f1) that we have used to develop EvaluatAR contains a known vulnerability: “CWE-426: Untrusted Search Path” (CVE-2025-59489). This results in a warning displayed for this project in the Unity Hub. This warning currently appears on all Unity projects with versions prior to Unity 6, after Unity 6 was released. However, Unity has confirmed that there is no evidence of active exploitation or impact of this vulneraibility on the users. After the artifact approval process, we will explore upgrading our codebase to Unity 6 in the same repository. We will add appropriate release tags to the reviewed artifacts and the Unity 6 updated version, allowing future users to access an updated version of the codebase while preserving the reviewed artifact version that was awarded the functional badge.
 
 ## Basic Requirements (Required for Functional and Reproduced badges)
 
